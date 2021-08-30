@@ -1,5 +1,5 @@
 ---
-title: "Was schätzen Sie?: Angela Merkel"
+title: "Schätzen Sie selbst!"
 description: Lorem Ipsum
 author: Jörn Kießler
 pub_date: "2021-08-30"
@@ -11,7 +11,7 @@ sharingImageTwitter: "richard-wagner-und-freunde_twitter.jpg"
 cg1: "WDR"
 cg2: "Data"
 cg3: "WDR 3"
-cg4: "Was schätzen Sie?: Angela Merkel"
+cg4: "Schätzen Sie selbst!"
 ---
 
 import Webtrekk from '../components/webtrekk/webtrekk.jsx'
@@ -23,7 +23,7 @@ import YDILine from '../components/ydi/ydiLine.jsx'
 
 import { Link, LinkList } from '../components/link/link.jsx'
 
-## Schlagworte, hier?
+## Bundestagswahl 2021
 # Angela Merkel hat Dinge getan
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quae tamen a te agetur non melior, quam illae sunt, quas interdum optines. Beatus autem esse in maximarum rerum timore nemo potest. Is ita vivebat, ut nulla tam exquisita posset inveniri voluptas, qua non abundaret. Ad quorum et cognitionem et usum iam corroborati natura ipsa praeeunte deducimur. Duo Reges: constructio interrete. Quonam, inquit, modo? De ingenio eius in his disputationibus, non de moribus quaeritur. Hoc enim identidem dicitis, non intellegere nos quam dicatis voluptatem.
 
