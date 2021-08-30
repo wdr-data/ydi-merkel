@@ -1,0 +1,99 @@
+{
+  "key": "health_beds_in_use",
+  "heading": "Die Auslastung der Betten ist...",
+  "subheading": "",
+  "result": "**Dies ist die _Auflösung_.**",
+  "accessibility": "Dies ist der Text für Screenreader.",
+  "source": {
+    "url": "https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Gesundheit/Krankenhaeuser/Tabellen/gd-krankenhaeuser-jahre.html",
+    "title": "Bundesamt für Statistik"
+  },
+  "knownData": [
+    {
+      "label": "2002",
+      "value": 80.1
+    },
+    {
+      "label": "2003",
+      "value": 77.6
+    },
+    {
+      "label": "2004",
+      "value": 75.5
+    },
+    {
+      "label": "2005",
+      "value": 75.6
+    },
+    {
+      "label": "2006",
+      "value": 76.3
+    },
+    {
+      "label": "2007",
+      "value": 77.2
+    },
+    {
+      "label": "2008",
+      "value": 77.4
+    },
+    {
+      "label": "2009",
+      "value": 77.5
+    },
+    {
+      "label": "2010",
+      "value": 77.4
+    },
+    {
+      "label": "2011",
+      "value": 77.3
+    },
+    {
+      "label": "2012",
+      "value": 77.4
+    },
+    {
+      "label": "2013",
+      "value": 77.3
+    },
+    {
+      "label": "2014",
+      "value": 77.4
+    },
+    {
+      "label": "2015",
+      "value": 77.5
+    },
+    {
+      "label": "2016",
+      "value": 77.9
+    },
+    {
+      "label": "2017",
+      "value": 77.8
+    }
+  ],
+  "unknownData": [
+    {
+      "label": "2018",
+      "value": 77.1
+    },
+    {
+      "label": "2019",
+      "value": 77.2
+    },
+    {
+      "label": "2020",
+      "value": 0
+    }
+  ],
+  "maxY": 100,
+  "unit": "%",
+  "precision": 1,
+  "customMargin": {
+    "left": 55,
+    "right": 20
+  },
+  "ticks": 10
+}

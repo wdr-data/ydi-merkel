@@ -1,0 +1,28 @@
+{
+  "key": "inequality_top_ten",
+  "heading": "Die reichsten 10 Prozent der Deutschen besitzen davon...",
+  "subheading": "",
+  "result": "**Dies ist die _Auflösung_.**",
+  "accessibility": "Dies ist der Text für Screenreader.",
+  "source": {
+    "url": "https://www.diw.de/documents/publikationen/73/diw_01.c.821117.de/21-27-1.pdf",
+    "title": "DIW"
+  },
+  "knownData": [
+    {
+      "label": "2017",
+      "value": 56.0
+    }
+  ],
+  "unknownData": {
+    "label": "2020",
+    "value": 58.9
+  },
+  "maxY": 100,
+  "initialGuess": 56.0,
+  "unit": "%",
+  "precision": 1,
+  "customMargin": {
+    "left": 55
+  }
+}

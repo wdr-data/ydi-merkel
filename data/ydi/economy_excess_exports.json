@@ -1,0 +1,42 @@
+{
+  "key": "economy_exports",
+  "heading": "Der Exportüberschuss ist...",
+  "subheading": "",
+  "result": "**Dies ist die _Auflösung_.**",
+  "accessibility": "Dies ist der Text für Screenreader.",
+  "source": {
+    "url": "https://www.destatis.de/DE/Themen/Wirtschaft/Aussenhandel/Tabellen/gesamtentwicklung-aussenhandel.html",
+    "title": "Statistisches Bundesamt"
+  },
+  "knownData": [
+    {"label": "2002", "value": 132.788},
+    {"label": "2003", "value": 129.921},
+    {"label": "2004", "value": 156.096},
+    {"label": "2005", "value": 158.179},
+    {"label": "2006", "value": 159.048},
+    {"label": "2007", "value": 195.349},
+    {"label": "2008", "value": 178.298},
+    {"label": "2009", "value": 138.697},
+    {"label": "2010", "value": 154.863},
+    {"label": "2011", "value": 158.702},
+    {"label": "2012", "value": 193.222},
+    {"label": "2013", "value": 197.632},
+    {"label": "2014", "value": 213.601},
+    {"label": "2015", "value": 244.310},
+    {"label": "2016", "value": 248.916},
+    {"label": "2017", "value": 247.946}
+  ],
+  "unknownData": [
+    {"label": "2018", "value": 228.720},
+    {"label": "2019", "value": 224.010},
+    {"label": "2020", "value": 179.937}
+  ],
+  "maxY": 500.0,
+  "unit": " Mrd. €",
+  "precision": 0,
+  "customMargin": {
+    "left": 100,
+    "right": 20
+  },
+  "ticks": 10
+}

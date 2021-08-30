@@ -1,0 +1,99 @@
+{
+  "key": "climate_power",
+  "heading": "Der Anteil der Erneuerbaren Energien ist...",
+  "subheading": "Schätzen Sie, wie viel Energie in Deutschland aus erneuerbaren Energien gewonnen wird",
+  "result": "**Dies ist die _Auflösung_.**",
+  "accessibility": "Dies ist der Text für Screenreader.",
+  "source": {
+    "url": "https://www.erneuerbare-energien.de/EE/Redaktion/DE/Downloads/zeitreihen-zur-entwicklung-der-erneuerbaren-energien-in-deutschland-1990-2020.pdf;jsessionid=023B809DA7798535F1CD91F41349E32E?__blob=publicationFile&v=31",
+    "title": "BMWi"
+  },
+  "knownData": [
+    {
+      "label": "2002",
+      "value": 45436
+    },
+    {
+      "label": "2003",
+      "value": 46670
+    },
+    {
+      "label": "2004",
+      "value": 57957
+    },
+    {
+      "label": "2005",
+      "value": 63400
+    },
+    {
+      "label": "2006",
+      "value": 72509
+    },
+    {
+      "label": "2007",
+      "value": 89368
+    },
+    {
+      "label": "2008",
+      "value": 94280
+    },
+    {
+      "label": "2009",
+      "value": 95939
+    },
+    {
+      "label": "2010",
+      "value": 105181
+    },
+    {
+      "label": "2011",
+      "value": 124037
+    },
+    {
+      "label": "2012",
+      "value": 143043
+    },
+    {
+      "label": "2013",
+      "value": 152338
+    },
+    {
+      "label": "2014",
+      "value": 162525
+    },
+    {
+      "label": "2015",
+      "value": 188786
+    },
+    {
+      "label": "2016",
+      "value": 189671
+    },
+    {
+      "label": "2017",
+      "value": 216324
+    }
+  ],
+  "unknownData": [
+    {
+      "label": "2018",
+      "value": 224506
+    },
+    {
+      "label": "2019",
+      "value": 242434
+    },
+    {
+      "label": "2020",
+      "value": 251014
+    }
+  ],
+  "maxY": 500000,
+  "unit": " GWh",
+  "precision": 0,
+  "customMargin": {
+    "left": 115,
+    "right": 20
+  },
+  "ticks": 10
+}

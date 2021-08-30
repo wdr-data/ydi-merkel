@@ -1,0 +1,25 @@
+{
+  "key": "inequality_wealth",
+  "heading": "Das durchschnittliche Nettovermögen ist in den vergangenen 16 Jahren...",
+  "subheading": "",
+  "result": "**Dies ist die _Auflösung_.**",
+  "accessibility": "Dies ist der Text für Screenreader.",
+  "source": {
+    "url": "http://example.com/",
+    "title": "Eine Studie"
+  },
+  "knownData": [
+    {"label": "2002", "value": 0}
+  ],
+  "unknownData": [
+    {"label": "2018", "value": 0}
+  ],
+  "maxY": 100000,
+  "unit": "€",
+  "precision": 0,
+  "customMargin": {
+    "left": 85,
+    "right": 20
+  },
+  "ticks": 10
+}

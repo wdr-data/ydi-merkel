@@ -1,0 +1,99 @@
+{
+  "key": "health_hospitals",
+  "heading": "Die Zahl der Behandlungsplätze/Betten ist...",
+  "subheading": "",
+  "result": "**Dies ist die _Auflösung_.**",
+  "accessibility": "Dies ist der Text für Screenreader.",
+  "source": {
+    "url": "https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Gesundheit/Krankenhaeuser/Tabellen/gd-krankenhaeuser-jahre.html",
+    "title": "Bundesamt für Statistik"
+  },
+  "knownData": [
+    {
+      "label": "2002",
+      "value": 547284
+    },
+    {
+      "label": "2003",
+      "value": 541901
+    },
+    {
+      "label": "2004",
+      "value": 531333
+    },
+    {
+      "label": "2005",
+      "value": 523824
+    },
+    {
+      "label": "2006",
+      "value": 510767
+    },
+    {
+      "label": "2007",
+      "value": 506954
+    },
+    {
+      "label": "2008",
+      "value": 503360
+    },
+    {
+      "label": "2009",
+      "value": 503341
+    },
+    {
+      "label": "2010",
+      "value": 502749
+    },
+    {
+      "label": "2011",
+      "value": 502029
+    },
+    {
+      "label": "2012",
+      "value": 501475
+    },
+    {
+      "label": "2013",
+      "value": 500671
+    },
+    {
+      "label": "2014",
+      "value": 500680
+    },
+    {
+      "label": "2015",
+      "value": 499351
+    },
+    {
+      "label": "2016",
+      "value": 498718
+    },
+    {
+      "label": "2017",
+      "value": 497182
+    }
+  ],
+  "unknownData": [
+    {
+      "label": "2018",
+      "value": 498192
+    },
+    {
+      "label": "2019",
+      "value": 494326
+    },
+    {
+      "label": "2020",
+      "value": 0
+    }
+  ],
+  "maxY": 1000000,
+  "unit": "",
+  "precision": 0,
+  "customMargin": {
+    "left": 90,
+    "right": 20
+  },
+  "ticks": 10
+}

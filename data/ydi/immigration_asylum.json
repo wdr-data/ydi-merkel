@@ -1,0 +1,42 @@
+{
+  "key": "immigration_asylum",
+  "heading": "Die Zahl der Asylanträge ist...",
+  "subheading": "",
+  "result": "**Dies ist die _Auflösung_.**",
+  "accessibility": "Dies ist der Text für Screenreader.",
+  "source": {
+    "url": "https://www.bamf.de/SharedDocs/Anlagen/DE/Statistik/BundesamtinZahlen/bundesamt-in-zahlen-2020-asyl.html?nn=284738",
+    "title": "BAMF"
+  },
+  "knownData": [
+    {"label": "2002", "value": 91471},
+    {"label": "2003", "value": 67848},
+    {"label": "2004", "value": 50152},
+    {"label": "2005", "value": 42908},
+    {"label": "2006", "value": 30100},
+    {"label": "2007", "value": 30303},
+    {"label": "2008", "value": 28018},
+    {"label": "2009", "value": 33033},
+    {"label": "2010", "value": 48589},
+    {"label": "2011", "value": 53347},
+    {"label": "2012", "value": 77651},
+    {"label": "2013", "value": 127023},
+    {"label": "2014", "value": 202834},
+    {"label": "2015", "value": 476649},
+    {"label": "2016", "value": 745545},
+    {"label": "2017", "value": 222683}
+  ],
+  "unknownData": [
+    {"label": "2018", "value": 185853},
+    {"label": "2019", "value": 165938},
+    {"label": "2020", "value": 122170}
+  ],
+  "maxY": 1000000,
+  "unit": "",
+  "precision": 0,
+  "customMargin": {
+    "left": 90,
+    "right": 20
+  },
+  "ticks": 10
+}

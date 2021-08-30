@@ -1,0 +1,42 @@
+{
+  "key": "economy_debt",
+  "heading": "Die Staatsverschuldung ist...",
+  "subheading": "",
+  "result": "**Dies ist die _Auflösung_.**",
+  "accessibility": "Dies ist der Text für Screenreader.",
+  "source": {
+    "url": "https://www.destatis.de/DE/Themen/Staat/Oeffentliche-Finanzen/Schulden-Finanzvermoegen/Tabellen/schulden-nicht-oeffentl-gesamthaushalt-zeitreihe.html",
+    "title": "Statistisches Bundesamt"
+  },
+  "knownData": [
+    {"label": "2002", "value": 1277.271},
+    {"label": "2003", "value": 1357.724},
+    {"label": "2004", "value": 1429.749},
+    {"label": "2005", "value": 1489.853},
+    {"label": "2006", "value": 1545.364},
+    {"label": "2007", "value": 1552.372},
+    {"label": "2008", "value": 1577.882},
+    {"label": "2009", "value": 1694.369},
+    {"label": "2010", "value": 2011.139},
+    {"label": "2011", "value": 2024.615},
+    {"label": "2012", "value": 2067.624},
+    {"label": "2013", "value": 2042.714},
+    {"label": "2014", "value": 2043.357},
+    {"label": "2015", "value": 2020.216},
+    {"label": "2016", "value": 2008.875},
+    {"label": "2017", "value": 1968.666}
+  ],
+  "unknownData": [
+    {"label": "2018", "value": 1915.640},
+    {"label": "2019", "value": 1899.001},
+    {"label": "2020", "value": 2172.843}
+  ],
+  "maxY": 3000,
+  "unit": " Mrd. €",
+  "precision": 0,
+  "customMargin": {
+    "left": 115,
+    "right": 20
+  },
+  "ticks": 10
+}

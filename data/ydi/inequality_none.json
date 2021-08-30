@@ -1,0 +1,28 @@
+{
+  "key": "inequality_none",
+  "heading": "Keinerlei Vermögen oder sogar Schulden besitzen...",
+  "subheading": "",
+  "result": "**Dies ist die _Auflösung_.**",
+  "accessibility": "Dies ist der Text für Screenreader.",
+  "source": {
+    "url": "http://example.com/",
+    "title": "Eine Studie"
+  },
+  "knownData": [
+    {
+      "label": "2017",
+      "value": 0.0
+    }
+  ],
+  "unknownData": {
+    "label": "2020",
+    "value": 0.0
+  },
+  "maxY": 50,
+  "initialGuess": 0.0,
+  "unit": "%",
+  "precision": 1,
+  "customMargin": {
+    "left": 50
+  }
+}
