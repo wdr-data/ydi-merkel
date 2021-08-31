@@ -25,8 +25,8 @@ import { Link, LinkList } from '../components/link/link.jsx'
 
 ## Bundestagswahl 2021
 # Angela Merkel hat Dinge getan
-Klimawandel, Wohlstand, Wirtschaft, Flüchtlingspolitik und Gesundheitsversorgung: Die Themenfelder für die Bundestagswahl am 26. September 2021 sind abgesteckt. Auch wenn die einzelnen Parteien die Herausforderungen unterschiedlich angehen, die anvisierten Ziele sind die selben: den Klimawandel zumindest verlangsamen, den Wohlstand des Landes sichern und die Wirtschaft stärken. Das versprechen die Parteien zumindest in ihren Wahlprogrammen.
-Viele der Probleme, deren Lösung die Parteien nach der Wahl angehen wollen, sind nicht neu. Und vier der großen Parteien waren - zumindest in Koalitionen - in den vergangenen 20 Jahren auch schon in der Regierungsverantwortung und hatten die Möglichkeit, etwas zu tun. Doch wie erfolgreich war in dieser Zeit der Kampf gegen den Klimawandel? Wie hat sich die deutsche Wirtschaft entwickelt? Wie wurde der Wohlstand auf die Bevölkerung verteilt?
+Klimawandel, Wirtschaft, Wohlstand, Flüchtlingspolitik und Gesundheitsversorgung: Die Themenfelder für die Bundestagswahl am 26. September 2021 sind abgesteckt. Auch wenn die einzelnen Parteien die Herausforderungen unterschiedlich angehen, die anvisierten Ziele sind die selben: den Klimawandel zumindest verlangsamen, die Wirtschaft stärken und den Wohlstand des Landes sichern. Das versprechen die Parteien zumindest in ihren Wahlprogrammen.
+Viele der Probleme, deren Lösung die Parteien nach der Wahl angehen wollen, sind nicht neu. Und vier der großen Parteien waren in den vergangenen 20 Jahren bereits an den Regierungen beteiligt und hatten die Möglichkeit, etwas zu tun. Doch wie erfolgreich war in dieser Zeit der Kampf gegen den Klimawandel? Wie hat sich die deutsche Wirtschaft entwickelt? Wie wurde der Wohlstand auf die Bevölkerung verteilt?
 
 ## Was schätzen Sie?
 Mit „Was schätzen Sie?“ laden wir Sie ein, Ihre gefühlte Wahrheit auf den Prüfstand zu stellen. Ziehen Sie mit der Maus oder dem Finger die Balken und Linien so, wie Sie die jeweiligen Zahlen einschätzen. Mit einem Klick auf "Wie ist's tatsächlich?" erhalten Sie das Ergebnis.
@@ -34,15 +34,15 @@ Mit „Was schätzen Sie?“ laden wir Sie ein, Ihre gefühlte Wahrheit auf den 
 
 ### Klima
 
-Darin, dass die CO2-Emissionen drastisch reduziert werden müssen, um der Erderwärmung Einhalt zu gebieten, sind sich fast alle Parteien einig. Auch, weil die Erkenntnis, dass CO2 ein Klimakiller ist, nicht neu ist. 
+Darin, dass die CO2-Emissionen drastisch reduziert werden müssen, um der Erderwärmung Einhalt zu gebieten, sind sich fast alle Parteien einig. Auch, weil die Erkenntnis, dass CO2 ein Klimakiller ist, nicht neu ist. Doch wie haben sich der CO2-Ausstoß in Deutschland während der letzten Legislaturperiode entwickelt?
 
 <YDILine name="climate_emissions"/>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nimis multa. Quae animi affectio suum cuique tribuens atque hanc, quam dico. Quis est, qui non oderit libidinosam, protervam adolescentiam? Duo Reges: constructio interrete. Saepe ab Aristotele, a Theophrasto mirabiliter est laudata per se ipsa rerum scientia; Duo enim genera quae erant, fecit tria. Ipse Epicurus fortasse redderet, ut Sextus Peducaeus, Sex. De ingenio eius in his disputationibus, non de moribus quaeritur. Paupertas si malum est, mendicus beatus esse nemo potest, quamvis sit sapiens. Quod quidem iam fit etiam in Academia.
+Mehr als ein Viertel und damit der größte Teil der Treibhausgase entstehen in Deutschland in der Energiewirtschaft. Die Umstellung dieses Sektors auf Erneuerbare Energien ist also ein wichtiger Bestandteil, wenn Deutschland klimaneutral werden will. Wie viel Strom wird denn schon jetzt aus Erneuerbaren Engerien gewonnen?
 
 <YDILine name="climate_power"/>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nihil acciderat ei, quod nollet, nisi quod anulum, quo delectabatur, in mari abiecerat. Sin aliud quid voles, postea. Duo Reges: constructio interrete. Duae sunt enim res quoque, ne tu verba solum putes. Si enim ad populum me vocas, eum. Cur igitur, inquam, res tam dissimiles eodem nomine appellas?
+Beim Ausbau der Erneuerbaren Energien spielt vor allem die Windenergie eine große Rolle. Auch darin sind sich die meisten Parteien einig. CDU und CSU wollen den Ausbau von Windrädern forcieren, wie es in ihrem Wahlprogramm heißt. Auch die SPD identifiziert Windkraft und Sonne als Energiequellen der Zukunft. Wie ging der Ausbau der Windkenergie unter der Regierung der beiden Koalitionspartner voran?
 
 <YDILine name="climate_wind"/>
 
