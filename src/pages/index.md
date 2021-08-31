@@ -105,11 +105,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hoc enim identidem dici
 
 # Asylpolitik
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque solum ea communia, verum etiam paria esse dixerunt. Tum Quintus: Est plane, Piso, ut dicis, inquit. Respondent extrema primis, media utrisque, omnia omnibus. Hosne igitur laudas et hanc eorum, inquam, sententiam sequi nos censes oportere? Quo plebiscito decreta a senatu est consuli quaestio Cn. Mihi quidem Antiochum, quem audis, satis belle videris attendere.
+Bei keinem Thema unterscheiden sich die Ansichten und Pläne der Parteien so stark, wie beim Thema Migration. Die Marschroute der Union hat deren Kanzlerkandidat Armin Laschet ziemlich deutlich gemacht: "2015 darf sich nicht wiederholen!", so Laschet. CDU und CSU wollen erreichen, dass weniger Menschen nach deutschland flüchten. Erreicht werden soll das durch die Erleichterung von Abschiebungen, das Durchsetzen von Ausreisepflichten aber auch die reform des Asylsystems der EU. Damit will die Union genau wie die SPD sicherstellen, dass die Asylsuchenden und die Kosten fairer auf alle Mitgliedsstaaten verteilt werden. Aber wie haben sich die Flüchtlingszahlen in den vergangenen vier Jahren überhaupt entwickelt? 
 
 <YDILine name="immigration_asylum"/>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quid censes in Latino fore? Sed emolumenta communia esse dicuntur, recte autem facta et peccata non habentur communia.
 
 <Quote author="Angela Merkel">Wir schaffen das.</Quote>
 
