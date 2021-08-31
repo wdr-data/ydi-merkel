@@ -105,7 +105,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hoc enim identidem dici
 
 # Asylpolitik
 
-Bei keinem Thema unterscheiden sich die Ansichten und Pläne der Parteien so stark, wie beim Thema Migration. Die Marschroute der Union hat deren Kanzlerkandidat Armin Laschet ziemlich deutlich gemacht: "2015 darf sich nicht wiederholen!", so Laschet. CDU und CSU wollen erreichen, dass weniger Menschen nach deutschland flüchten. Erreicht werden soll das durch die Erleichterung von Abschiebungen, das Durchsetzen von Ausreisepflichten aber auch die reform des Asylsystems der EU. Damit will die Union genau wie die SPD sicherstellen, dass die Asylsuchenden und die Kosten fairer auf alle Mitgliedsstaaten verteilt werden. Aber wie haben sich die Flüchtlingszahlen in den vergangenen vier Jahren überhaupt entwickelt? 
+Bei keinem Thema unterscheiden sich die Ansichten und Pläne der Parteien so stark, wie beim Thema Migration. Die Marschroute der Union hat deren Kanzlerkandidat Armin Laschet ziemlich deutlich gemacht: "2015 darf sich nicht wiederholen!", so Laschet. CDU und CSU wollen, dass weniger Menschen nach Deutschland flüchten. Erreicht werden soll das durch die Erleichterung von Abschiebungen, das Durchsetzen von Ausreisepflichten aber auch die Reform des Asylsystems der EU. Damit will die Union genau wie die SPD sicherstellen, dass die Asylsuchenden und die Kosten fairer auf alle Mitgliedsstaaten verteilt werden. Aber wie haben sich die Flüchtlingszahlen in den vergangenen vier Jahren überhaupt entwickelt? 
 
 <YDILine name="immigration_asylum"/>
 
