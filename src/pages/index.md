@@ -50,8 +50,6 @@ Beim Ausbau der Erneuerbaren Energien spielt vor allem die Windenergie eine gro√
 
 <YDILine name="climate_wind"/>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nos vero, inquit ille; Septem autem illi non suo, sed populorum suffragio omnium nominati sunt. Tu autem, si tibi illa probabantur, cur non propriis verbis ea tenebas? Itaque sensibus rationem adiunxit et ratione effecta sensus non reliquit. Duo Reges: constructio interrete. Nonne videmus quanta perturbatio rerum omnium consequatur, quanta confusio?
-
 
 # Soziale Ungleichheit
 
