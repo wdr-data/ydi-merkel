@@ -11,7 +11,7 @@ sharingImageTwitter: "richard-wagner-und-freunde_twitter.jpg"
 cg1: "WDR"
 cg2: "Data"
 cg3: "WDR 3"
-cg4: "Schätzen Sie selbst!"
+cg4: "Bundestagswahl 2021: Schätzen Sie selbst!"
 ---
 
 import Webtrekk from '../components/webtrekk/webtrekk.jsx'
@@ -24,7 +24,7 @@ import YDILine from '../components/ydi/ydiLine.jsx'
 import { Link, LinkList } from '../components/link/link.jsx'
 
 ## Bundestagswahl 2021
-# Angela Merkel hat Dinge getan
+# Welche Themen hatte die große Koalition schon im Fokus?
 Klimawandel, Wirtschaft, Wohlstand, Flüchtlingspolitik und Gesundheitsversorgung: Die Themenfelder für die Bundestagswahl am 26. September 2021 sind abgesteckt. Auch wenn die einzelnen Parteien die Herausforderungen unterschiedlich angehen, die anvisierten Ziele sind die selben: den Klimawandel zumindest verlangsamen, die Wirtschaft stärken und den Wohlstand des Landes sichern. Das versprechen die Parteien zumindest in ihren Wahlprogrammen.
 Viele der Probleme, deren Lösung die Parteien nach der Wahl angehen wollen, sind nicht neu. Und vier der großen Parteien waren in den vergangenen 20 Jahren bereits an den Regierungen beteiligt und hatten die Möglichkeit, etwas zu tun. Doch wie erfolgreich war in dieser Zeit der Kampf gegen den Klimawandel? Wie hat sich die deutsche Wirtschaft entwickelt? Wie wurde der Wohlstand auf die Bevölkerung verteilt?
 
@@ -34,7 +34,7 @@ Mit „Was schätzen Sie?“ laden wir Sie ein, Ihre gefühlte Wahrheit auf den 
 
 ### Klima
 
-Darin, dass die CO2-Emissionen drastisch reduziert werden müssen, um der Erderwärmung Einhalt zu gebieten, sind sich fast alle Parteien einig. Auch, weil die Erkenntnis, dass CO2 ein Klimakiller ist, nicht neu ist. Doch wie haben sich der CO2-Ausstoß in Deutschland während der letzten Legislaturperiode entwickelt?
+Darin, dass die CO2-Emissionen drastisch reduziert werden müssen, um der Erderwärmung Einhalt zu gebieten, sind sich fast alle Parteien einig. Auch, weil die Erkenntnis, dass CO2 ein Klimakiller ist, nicht neu ist. Doch wie hat sich der CO2-Ausstoß in Deutschland während der letzten Legislaturperiode entwickelt?
 
 <YDILine name="climate_emissions"/>
 
