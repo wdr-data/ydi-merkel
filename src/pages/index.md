@@ -25,15 +25,16 @@ import { Link, LinkList } from '../components/link/link.jsx'
 
 ## Bundestagswahl 2021
 # Angela Merkel hat Dinge getan
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quae tamen a te agetur non melior, quam illae sunt, quas interdum optines. Beatus autem esse in maximarum rerum timore nemo potest. Is ita vivebat, ut nulla tam exquisita posset inveniri voluptas, qua non abundaret. Ad quorum et cognitionem et usum iam corroborati natura ipsa praeeunte deducimur. Duo Reges: constructio interrete. Quonam, inquit, modo? De ingenio eius in his disputationibus, non de moribus quaeritur. Hoc enim identidem dicitis, non intellegere nos quam dicatis voluptatem.
+Klimawandel, Wohlstand, Wirtschaft, Flüchtlingspolitik und Gesundheitsversorgung: Die Themenfelder für die Bundestagswahl am 26. September 2021 sind abgesteckt. Auch wenn die einzelnen Parteien die Herausforderungen unterschiedlich angehen, die anvisierten Ziele sind die selben: den Klimawandel zumindest verlangsamen, den Wohlstand des Landes sichern und die Wirtschaft stärken. Das versprechen die Parteien zumindest in ihren Wahlprogrammen.
+Viele der Probleme, deren Lösung die Parteien nach der Wahl angehen wollen, sind nicht neu. Und vier der großen Parteien waren - zumindest in Koalitionen - in den vergangenen 20 Jahren auch schon in der Regierungsverantwortung und hatten die Möglichkeit, etwas zu tun. Doch wie erfolgreich war in dieser Zeit der Kampf gegen den Klimawandel? Wie hat sich die deutsche Wirtschaft entwickelt? Wie wurde der Wohlstand auf die Bevölkerung verteilt?
 
 ## Was schätzen Sie?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non ego tecum iam ita iocabor, ut isdem his de rebus, cum L. Dolere malum est: in crucem qui agitur, beatus esse non potest. Duo Reges: constructio interrete. Nullus est igitur cuiusquam dies natalis. Non quaeritur autem quid naturae tuae consentaneum sit, sed quid disciplinae. Traditur, inquit, ab Epicuro ratio neglegendi doloris.
+Mit „Was schätzen Sie?“ laden wir Sie ein, Ihre gefühlte Wahrheit auf den Prüfstand zu stellen. Ziehen Sie mit der Maus oder dem Finger die Balken und Linien so, wie Sie die jeweiligen Zahlen einschätzen. Mit einem Klick auf "Wie ist's tatsächlich?" erhalten Sie das Ergebnis.
 
 
 ### Klima
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In omni enim arte vel studio vel quavis scientia vel in ipsa virtute optimum quidque rarissimum est. At cum de plurimis eadem dicit, tum certe de maximis. Quia voluptatem hanc esse sentiunt omnes, quam sensus accipiens movetur et iucunditate quadam perfunditur. Et nemo nimium beatus est; Sed ego in hoc resisto; Si qua in iis corrigere voluit, deteriora fecit.
+Darin, dass die CO2-Emissionen drastisch reduziert werden müssen, um der Erderwärmung Einhalt zu gebieten, sind sich fast alle Parteien einig. Auch, weil die Erkenntnis, dass CO2 ein Klimakiller ist, nicht neu ist. 
 
 <YDILine name="climate_emissions"/>
 
