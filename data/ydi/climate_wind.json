@@ -1,9 +1,9 @@
 {
   "key": "climate_wind",
   "heading": "Der Ausbau der Windenergie ist...",
-  "subheading": "Schätzen Sie die Anzahl der  jährlich neu gebauten Windenergieanlagen",
-  "result": "**Dies ist die _Auflösung_.**",
-  "accessibility": "Dies ist der Text für Screenreader.",
+  "subheading": "Schätzen Sie die Anzahl der jährlich neu gebauten Windenergieanlagen",
+  "result": "**In den vergangenen drei Jahren hat die Zahl der in Deutschland neu gebauten Windkraftanlagen einen Tiefstwert erreicht. Gründe dafür gibt es mehrere. So ist es beispielsweise durch neue festgelegte Mindestabstände, die die Betreiber von Windrädern zu Wohnsiedlungen einhalten müssen, schwieriger, geeignete Orte zu finden. Zudem müssen die Projekte bundesweit ausgeschrieben werden, was die Genehmigung und Umsetzung der Bauvorhaben verlangsamt. Und zu guter Letzt klagen immer wieder Anwohner und Naturschützer gegen den Bau von Windkraftanlagen.**",
+  "accessibility": "In den vergangenen drei Jahren hat die Zahl der in Deutschland neu gebauten Windkraftanlagen einen Tiefstwert erreicht. Gründe dafür gibt es mehrere. So ist es beispielsweise durch neue festgelegte Mindestabstände, die die Betreiber von Windrädern zu Wohnsiedlungen einhalten müssen, schwieriger, geeignete Orte zu finden. Zudem müssen die Projekte bundesweit ausgeschrieben werden, was die Genehmigung und Umsetzung der Bauvorhaben verlangsamt. Und zu guter Letzt klagen immer wieder Anwohner und Naturschützer gegen den Bau von Windkraftanlagen.",
   "source": {
     "url": "https://www.wind-energie.de/themen/zahlen-und-fakten/deutschland/",
     "title": "Bundesverband Windenergie"
