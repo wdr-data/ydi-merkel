@@ -26,6 +26,7 @@ import { Link, LinkList } from '../components/link/link.jsx'
 ## Bundestagswahl 2021
 # Welche Themen hatte die große Koalition schon im Fokus?
 Klimawandel, Wirtschaft, Wohlstand, Flüchtlingspolitik und Gesundheitsversorgung: Die Themenfelder für die Bundestagswahl am 26. September 2021 sind abgesteckt. Auch wenn die einzelnen Parteien die Herausforderungen unterschiedlich angehen, die anvisierten Ziele sind die selben: den Klimawandel zumindest verlangsamen, die Wirtschaft stärken und den Wohlstand des Landes sichern. Das versprechen die Parteien zumindest in ihren Wahlprogrammen.
+
 Viele der Probleme, deren Lösung die Parteien nach der Wahl angehen wollen, sind nicht neu. Und vier der großen Parteien waren in den vergangenen 20 Jahren bereits an den Regierungen beteiligt und hatten die Möglichkeit, etwas zu tun. Doch wie erfolgreich war in dieser Zeit der Kampf gegen den Klimawandel? Wie hat sich die deutsche Wirtschaft entwickelt? Wie wurde der Wohlstand auf die Bevölkerung verteilt?
 
 ## Was schätzen Sie?
