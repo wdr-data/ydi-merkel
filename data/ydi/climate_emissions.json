@@ -56,7 +56,9 @@
     {
       "label": "2013",
       "value": 810.768
-    },
+    }
+  ],
+  "unknownData": [
     {
       "label": "2014",
       "value": 768.329
@@ -72,9 +74,7 @@
     {
       "label": "2017",
       "value": 762.063
-    }
-  ],
-  "unknownData": [
+    },
     {
       "label": "2018",
       "value": 732.417

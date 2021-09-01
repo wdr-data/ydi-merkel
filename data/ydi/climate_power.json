@@ -56,7 +56,9 @@
     {
       "label": "2013",
       "value": 152338
-    },
+    }
+  ],
+  "unknownData": [
     {
       "label": "2014",
       "value": 162525
@@ -72,9 +74,7 @@
     {
       "label": "2017",
       "value": 216324
-    }
-  ],
-  "unknownData": [
+    },
     {
       "label": "2018",
       "value": 224506

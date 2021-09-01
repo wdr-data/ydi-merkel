@@ -70,7 +70,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Bonum negas esse diviti
 ### Staatsausgaben
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non est enim vitium in oratione solum, sed etiam in moribus. Qui est in parvis malis. Est, ut dicis, inquam. Esse enim quam vellet iniquus iustus poterat inpune. Quod cum dixissent, ille contra. Ut aliquid scire se gaudeant? Duo Reges: constructio interrete.
 
-<YDILine name="economy_exports"/>
+<YDILine name="economy_expenses"/>
 
 ### Staatsverschuldung
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Atque ab isto capite fluere necesse est omnem rationem bonorum et malorum. Qua tu etiam inprudens utebare non numquam. Nondum autem explanatum satis, erat, quid maxime natura vellet. Sed in rebus apertissimis nimium longi sumus.
