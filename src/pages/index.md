@@ -53,7 +53,7 @@ Beim Ausbau der Erneuerbaren Energien spielt vor allem die Windenergie eine gro�
 
 ## Soziale Ungleichheit
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Summum ením bonum exposuit vacuitatem doloris; Eorum enim est haec querela, qui sibi cari sunt seseque diligunt.
+Die Union betont ihrem Wahlprogramm, wie sie das Erfolgsmodell der sozialen Marktwirtschaft fortführen will, dass Deutschland zu einer der wohlhabensten Nationen der Welt gemacht hat. Steuererhöhungen und neue Staatsschulden sind dabei nicht vorgesehen. Im Gegensatz zur SPD, die vor allem höhere Steuern für Spitzenverdiener und Vermögende einführen will der reichen Lorem ipsum dolor sit amet, consectetur adipiscing elit. Summum ením bonum exposuit vacuitatem doloris; Eorum enim est haec querela, qui sibi cari sunt seseque diligunt.
 
 <YDILine name="inequality_wealth"/>
 
