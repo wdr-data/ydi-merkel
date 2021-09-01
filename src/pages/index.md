@@ -34,7 +34,6 @@ Mit „Was schätzen Sie?“ laden wir Sie ein, Ihre gefühlte Wahrheit auf den 
 
 
 ## Klima
-
 ### CO2-Emissionen
 Darin, dass die CO2-Emissionen drastisch reduziert werden müssen, um der Erderwärmung Einhalt zu gebieten, sind sich fast alle Parteien einig. Auch, weil die Erkenntnis, dass CO2 ein Klimakiller ist, nicht neu ist. Doch wie hat sich der CO2-Ausstoß in Deutschland während der letzten Legislaturperiode entwickelt?
 
