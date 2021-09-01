@@ -5,6 +5,7 @@ body {
   font-family: "Open Sans", sans-serif;
   color: var(--brand-font);
   --font-default: 17.5px;
+  --font-extra-large: 30px;
   --font-large: 26px;
   --font-medium: 21px;
   --font-detail: 15px;
@@ -12,26 +13,37 @@ body {
 
 h1 {
   font-family: "Merriweather", serif;
-  font-size: var(--font-large);
+  font-size: var(--font-extra-large);
   line-height: 2.2rem;
   letter-spacing: 0.05rem;
   margin-top: 0.5rem;
 }
 
-h2 {
+h2:nth-of-type(1), h2:nth-of-type(2) {
   font-family: "Open Sans", sans-serif;
   font-weight: 600;
   line-height: 1.75rem;
   font-size: var(--font-medium);
   color: var(--brand-font-secondary);
+  margin: unset;
 }
+
+
+h2 {
+  font-family: "Merriweather", serif;
+  font-size: var(--font-large);
+  line-height: 1.7rem;
+  letter-spacing: 0.05rem;
+  margin: 3.5rem 0 0 0;
+}
+
 
 h3 {
   font-family: "Merriweather", serif;
   font-size: var(--font-medium);
   line-height: 1.7rem;
   letter-spacing: 0.05rem;
-  margin: 3.5rem 0 0 0;
+  margin: 1.5rem 0 0 0;
 }
 
 h4 {
