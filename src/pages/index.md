@@ -33,7 +33,7 @@ Viele der Probleme, deren Lösung die Parteien nach der Wahl angehen wollen, sin
 Mit „Was schätzen Sie?“ laden wir Sie ein, Ihre gefühlte Wahrheit auf den Prüfstand zu stellen. Ziehen Sie mit der Maus oder dem Finger die Balken und Linien so, wie Sie die jeweiligen Zahlen einschätzen. Mit einem Klick auf "Wie ist's tatsächlich?" erhalten Sie das Ergebnis.
 
 
-# Klima
+## Klima
 
 ### CO2-Emissionen
 Darin, dass die CO2-Emissionen drastisch reduziert werden müssen, um der Erderwärmung Einhalt zu gebieten, sind sich fast alle Parteien einig. Auch, weil die Erkenntnis, dass CO2 ein Klimakiller ist, nicht neu ist. Doch wie hat sich der CO2-Ausstoß in Deutschland während der letzten Legislaturperiode entwickelt?
@@ -51,7 +51,7 @@ Beim Ausbau der Erneuerbaren Energien spielt vor allem die Windenergie eine gro�
 <YDILine name="climate_wind"/>
 
 
-# Soziale Ungleichheit
+## Soziale Ungleichheit
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Summum ením bonum exposuit vacuitatem doloris; Eorum enim est haec querela, qui sibi cari sunt seseque diligunt.
 
@@ -68,7 +68,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Bonum negas esse diviti
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quod autem in homine praestantissimum atque optimum est, id deseruit. Sed haec omittamus; Et quidem saepe quaerimus verbum Latinum par Graeco et quod idem valeat; Earum etiam rerum, quas terra gignit, educatio quaedam et perfectio est non dissimilis animantium. Duo Reges: constructio interrete.
 
 
-# Gesundheit & Corona
+## Gesundheit & Corona
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sin dicit obscurari quaedam nec apparere, quia valde parva sint, nos quoque concedimus; Quod autem ratione actum est, id officium appellamus. Qui ita affectus, beatum esse numquam probabis; Sed id ne cogitari quidem potest quale sit, ut non repugnet ipsum sibi. Callipho ad virtutem nihil adiunxit nisi voluptatem, Diodorus vacuitatem doloris.
 
@@ -85,7 +85,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quos nisi redarguimus, 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut enim consuetudo loquitur, id solum dicitur honestum, quod est populari fama gloriosum. Transfer idem ad modestiam vel temperantiam, quae est moderatio cupiditatum rationi oboediens. Prioris generis est docilitas, memoria; Non igitur bene. Atque his de rebus et splendida est eorum et illustris oratio. Utinam quidem dicerent alium alio beatiorem! Iam ruinas videres.
 
 
-# Wirtschaft
+## Wirtschaft
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non est enim vitium in oratione solum, sed etiam in moribus. Qui est in parvis malis. Est, ut dicis, inquam. Esse enim quam vellet iniquus iustus poterat inpune. Quod cum dixissent, ille contra. Ut aliquid scire se gaudeant? Duo Reges: constructio interrete.
 
@@ -103,7 +103,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hoc enim identidem dici
 
 <YDILine name="economy_debt"/>
 
-# Asylpolitik
+## Asylpolitik
 
 Bei keinem Thema unterscheiden sich die Ansichten und Pläne der Parteien so stark, wie beim Thema Migration. Die Marschroute der Union hat deren Kanzlerkandidat Armin Laschet ziemlich deutlich gemacht: "2015 darf sich nicht wiederholen!", so Laschet. CDU und CSU wollen, dass weniger Menschen nach Deutschland flüchten. Erreicht werden soll das durch die Erleichterung von Abschiebungen, das Durchsetzen von Ausreisepflichten aber auch die Reform des Asylsystems der EU. Damit will die Union genau wie die SPD sicherstellen, dass die Asylsuchenden und die Kosten fairer auf alle Mitgliedsstaaten verteilt werden. Aber wie haben sich die Flüchtlingszahlen in den vergangenen vier Jahren überhaupt entwickelt? 
 
@@ -112,6 +112,5 @@ Bei keinem Thema unterscheiden sich die Ansichten und Pläne der Parteien so sta
 
 <Quote author="Angela Merkel">Wir schaffen das.</Quote>
 
-Terram, mihi crede, ea lanx et maria deprimet. Quid igitur dubitamus in tota eius natura quaerere quid sit effectum? Nondum autem explanatum satis, erat, quid maxime natura vellet. Miserum hominem!
 
 <Sharing twitter facebook mail whatsapp telegram reddit xing linkedin />
