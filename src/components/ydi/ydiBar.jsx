@@ -8,10 +8,10 @@ import { GridRows } from '@vx/grid';
 import { PatternLines } from '@vx/pattern';
 import { scaleBand, scaleLinear, scaleOrdinal } from '@vx/scale';
 import classNames from 'class-names';
+import { useWindowWidth } from '@react-hook/window-size';
 
 import { useNumberFormatter } from './hooks';
 import YDIWrapper from "./ydiWrapper";
-import { useWindowWidth } from '@react-hook/window-size';
 
 import styles from "./ydiBar.module.css";
 

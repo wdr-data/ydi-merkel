@@ -9,10 +9,11 @@ import { GridRows } from '@vx/grid';
 import { AreaClosed, LinePath, Line } from '@vx/shape';
 import { scaleLinear, scalePoint } from '@vx/scale';
 import classNames from 'class-names';
+import { useWindowWidth } from '@react-hook/window-size';
 
 import { useNumberFormatter } from "./hooks";
 import YDIWrapper from "./ydiWrapper";
-import { useWindowWidth } from '@react-hook/window-size';
+import { CoalitionMarker, coalitions } from "./coalitionMarker";
 
 import styles from "./ydiLine.module.css";
 
@@ -344,6 +345,16 @@ const YDILineInternal = ({ name }) => {
         question, guessProgress, unknownData, margin, formatNumber,
     ]);
 
+    const coalitionMarkers = useMemo(() => {
+        return tickValues.slice(0, -1).map(tick => {
+            const nextTick = tickValues[tickValues.indexOf(tick) + 1];
+            const x = margin.left + (xScale(tick) + xScale(nextTick)) / 2;
+            const colors = coalitions[tick];
+            return <CoalitionMarker key={tick} x={x} y={height - margin.bottom + 18} isMobile={isMobile} {...colors} />
+        });
+
+    }, [tickValues, xScale, height, margin]);
+
     return (
         <YDIWrapper
             question={question}
@@ -392,6 +403,7 @@ const YDILineInternal = ({ name }) => {
                 {groupKnown}
                 {groupUnknown}
                 {markers}
+                {coalitionMarkers}
             </svg>
             {!hasGuessed && <div
                 aria-hidden="true"
