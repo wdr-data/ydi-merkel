@@ -1,9 +1,9 @@
 {
   "key": "climate_emissions",
-  "heading": "Die CO2-Emissionen sind in den vergangenen vier Jahren...",
+  "heading": "Die CO2-Emissionen sind in den vergangenen acht Jahren...",
   "subheading": "",
-  "result": "**Auch in der vergangenen Legislaturperiode setzte sich der Trend der sinkenden CO2-Emissionen fort. Einerseits machte sich dabei der voranschreitende Kohleausstieg bemerkbar, andererseits sank der Ausstoß von CO2 gerade im vergangenen Jahr vor allem im Verkehrssektor. Der Grund dafür: Während des ersten Corona-Lockdowns wurde in Deutschland wesentlich weniger Auto gefahren.**",
-  "accessibility": "Auch in der vergangenen Legislaturperiode setzte sich der Trend der sinkenden CO2-Emissionen fort. Einerseits machte sich dabei der voranschreitende Kohleausstieg bemerkbar, andererseits sank der Ausstoß von CO2 im gerade vergangenen Jahr vor allem im Verkehrssektor. Der Grund dafür: Während des ersten Corona-Lockdowns wurde in Deutschland wesentlich weniger Auto gefahren.",
+  "result": "**Auch in den vergangenen zwei Legislaturperioden setzte sich der Trend der sinkenden CO2-Emissionen fort. Einerseits machte sich dabei der voranschreitende Kohleausstieg bemerkbar, andererseits sank der Ausstoß von CO2 gerade im vergangenen Jahr vor allem im Verkehrssektor. Der Grund dafür: Während des ersten Corona-Lockdowns wurde in Deutschland wesentlich weniger Auto gefahren.**",
+  "accessibility": "Auch in den vergangenen zwei Legislaturperioden setzte sich der Trend der sinkenden CO2-Emissionen fort. Einerseits machte sich dabei der voranschreitende Kohleausstieg bemerkbar, andererseits sank der Ausstoß von CO2 gerade im vergangenen Jahr vor allem im Verkehrssektor. Der Grund dafür: Während des ersten Corona-Lockdowns wurde in Deutschland wesentlich weniger Auto gefahren.",
   "source": {
     "url": "https://www.umweltbundesamt.de/dokument/emissionsuebersichten-in-den-sektoren-des",
     "title": "Bundesumweltamt"
