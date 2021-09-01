@@ -1,5 +1,5 @@
 ---
-title: "Schätzen Sie selbst!"
+title: "Bundestagswahl 2021: Was schätzen Sie?"
 description: Lorem Ipsum
 author: Jörn Kießler
 pub_date: "2021-08-30"
@@ -11,7 +11,7 @@ sharingImageTwitter: "richard-wagner-und-freunde_twitter.jpg"
 cg1: "WDR"
 cg2: "Data"
 cg3: "WDR 3"
-cg4: "Bundestagswahl 2021: Schätzen Sie selbst!"
+cg4: "Bundestagswahl 2021: Was schätzen Sie?"
 ---
 
 import Webtrekk from '../components/webtrekk/webtrekk.jsx'
@@ -25,9 +25,9 @@ import { Link, LinkList } from '../components/link/link.jsx'
 
 ## Bundestagswahl 2021
 # Welche Themen hatte die große Koalition schon im Fokus?
-Klimawandel, Wirtschaft, Wohlstand, Flüchtlingspolitik und Gesundheitsversorgung: Die Themenfelder für die Bundestagswahl am 26. September 2021 sind abgesteckt. Auch wenn die einzelnen Parteien die Herausforderungen unterschiedlich angehen, die anvisierten Ziele sind die selben: den Klimawandel zumindest verlangsamen, die Wirtschaft stärken und den Wohlstand des Landes sichern. Das versprechen die Parteien zumindest in ihren Wahlprogrammen.
+Klimawandel, Wirtschaft, Wohlstand und Flüchtlingspolitik: Die Themenfelder für die Bundestagswahl am 26. September 2021 sind abgesteckt. Auch wenn die einzelnen Parteien die Herausforderungen unterschiedlich angehen, die anvisierten Ziele sind die selben: den Klimawandel zumindest verlangsamen, die Wirtschaft stärken und den Wohlstand des Landes sichern. Das versprechen die Parteien zumindest in ihren Wahlprogrammen.
 
-Viele der Probleme, deren Lösung die Parteien nach der Wahl angehen wollen, sind nicht neu. Und vier der großen Parteien waren in den vergangenen 20 Jahren bereits an den Regierungen beteiligt und hatten die Möglichkeit, etwas zu tun. Doch wie erfolgreich war in dieser Zeit der Kampf gegen den Klimawandel? Wie hat sich die deutsche Wirtschaft entwickelt? Wie wurde der Wohlstand auf die Bevölkerung verteilt?
+Viele der Probleme, deren Lösung die Parteien nach der Wahl angehen wollen, sind nicht neu. Und vier der großen Parteien waren in den vergangenen 20 Jahren bereits an den Regierungen beteiligt und hatten die Möglichkeit, etwas zu tun. Die Große Koalition aus Union und Sozialdemokraten stellte in den vergangenen acht Jahren das Kabinett. Doch wie erfolgreich war in dieser Zeit der Kampf gegen den Klimawandel? Wie hat sich die deutsche Wirtschaft entwickelt? Wie wurde der Wohlstand auf die Bevölkerung verteilt?
 
 ## Was schätzen Sie?
 Mit „Was schätzen Sie?“ laden wir Sie ein, Ihre gefühlte Wahrheit auf den Prüfstand zu stellen. Ziehen Sie mit der Maus oder dem Finger die Balken und Linien so, wie Sie die jeweiligen Zahlen einschätzen. Mit einem Klick auf "Wie ist's tatsächlich?" erhalten Sie das Ergebnis.
@@ -35,7 +35,7 @@ Mit „Was schätzen Sie?“ laden wir Sie ein, Ihre gefühlte Wahrheit auf den 
 
 ## Klima
 ### CO2-Emissionen
-Darin, dass die CO2-Emissionen drastisch reduziert werden müssen, um der Erderwärmung Einhalt zu gebieten, sind sich fast alle Parteien einig. Auch, weil die Erkenntnis, dass CO2 ein Klimakiller ist, nicht neu ist. Doch wie hat sich der CO2-Ausstoß in Deutschland während der letzten Legislaturperiode entwickelt?
+Darin, dass die CO2-Emissionen drastisch reduziert werden müssen, um der Erderwärmung Einhalt zu gebieten, sind sich fast alle Parteien einig. Auch, weil die Erkenntnis, dass CO2 ein Klimakiller ist, nicht neu ist. Doch wie hat sich der CO2-Ausstoß in Deutschland während der letzten beiden Legislaturperioden entwickelt?
 
 <YDILine name="climate_emissions"/>
 
@@ -45,24 +45,23 @@ Mehr als ein Viertel und damit der größte Teil der Treibhausgase entsteht in D
 <YDILine name="climate_power"/>
 
 ### Windkraftanlagen
-Beim Ausbau der Erneuerbaren Energien spielt vor allem die Windenergie eine große Rolle. Auch darin sind sich die meisten Parteien einig. CDU und CSU wollen den Ausbau von Windrädern forcieren, wie es in ihrem Wahlprogramm heißt. Auch die SPD identifiziert Windkraft und Sonne als Energiequellen der Zukunft. Wie ging der Ausbau der Windkenergie unter der Regierung der beiden Koalitionspartner voran?
+Beim Ausbau der Erneuerbaren Energien spielt vor allem die Windenergie eine große Rolle. Schon jetzt wird der größte Teil der Erneuerbaren Energien in Windkraftanlagen gewonnen. CDU und CSU wollen den Ausbau von Windrädern forcieren, wie es in ihrem Wahlprogramm heißt. Auch die SPD identifiziert Windkraft und Sonne als Energiequellen der Zukunft. Wie ging der Ausbau der Windkenergie unter der Regierung der beiden Koalitionspartner voran?
 
 <YDILine name="climate_wind"/>
 
-
 ## Soziale Ungleichheit
 ### Nettovermögen
-Die Union betont ihrem Wahlprogramm, wie sie das Erfolgsmodell der sozialen Marktwirtschaft fortführen will, dass Deutschland zu einer der wohlhabensten Nationen der Welt gemacht hat. Steuererhöhungen und neue Staatsschulden sind dabei nicht vorgesehen. Im Gegensatz zur SPD, die vor allem höhere Steuern für Spitzenverdiener und Vermögende einführen will der reichen Lorem ipsum dolor sit amet, consectetur adipiscing elit. Summum ením bonum exposuit vacuitatem doloris; Eorum enim est haec querela, qui sibi cari sunt seseque diligunt.
+Die Union betont ihrem Wahlprogramm, wie sie das Erfolgsmodell der sozialen Marktwirtschaft fortführen will, das Deutschland zu einer der wohlhabensten Nationen der Welt gemacht hat. Wie hat sich das Wohlhaben in Deutschland in den vergangenen acht Jahre unter Schwarz-rot denn entwickelt?
 
 <YDIBar name="inequality_wealth"/>
 
 ### Anteil am Gesamtvermögen der reichsten zehn Prozent
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sapientem locupletat ipsa natura, cuius divitias Epicurus parabiles esse docuit. Scisse enim te quis coarguere possit? Sed quid attinet de rebus tam apertis plura requirere? Eodem modo is enim tibi nemo dabit, quod, expetendum sit, id esse laudabile.
+Durchschnittlisches Einkommen, ist eine Sache. Wie es dann tatsächlich verteilt ist, eine andere. Um die Ärmeren zu entlasten will die SPD laut ihrem Wahlprogramm die Steuern vor allem für Spitzenverdiener erhöhen und auch eine Vermögenssteuer einführen. Aber ist das Vermögen in Deutschland wirklich so ungleich verteilt?
 
 <YDIBar name="inequality_top_ten"/>
 
 ### Anteil der Bevölkerung ohne Nettovermögen
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Bonum negas esse divitias, praeposìtum esse dicis? Et nemo nimium beatus est; Ego vero isti, inquam, permitto. Ut optime, secundum naturam affectum esse possit. Verum esto: verbum ipsum voluptatis non habet dignitatem, nec nos fortasse intellegimus. Bona autem corporis huic sunt, quod posterius posui, similiora.
+Wenn wenige Reiche viel Vermögen besitzen, bleibt nicht mehr viel für die schlechter Gestellten übrig. Zu diesen gehören auch die Menschen, die überhaupt kein Vermögen besitzen. Wie hat sich ihr Anteil in der Gesellschaft unter Schwarz-Rot verändert?
 
 <YDIBar name="inequality_none"/>
 
@@ -78,7 +77,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Atque ab isto capite fl
 <YDILine name="economy_debt"/>
 
 ### Arbeitslosigkeit
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Miserum hominem! Si dolor summum malum est, dici aliter non potest. Itaque vides, quo modo loquantur, nova verba fingunt, deserunt usitata. Ac tamen, ne cui loco non videatur esse responsum, pauca etiam nunc dicam ad reliquam orationem tuam. Terram, mihi crede, ea lanx et maria deprimet. Qui non moveatur et offensione turpitudinis et comprobatione honestatis?
+Arbeitsplätze sind ein Argument, dass bei jeder wirtschaftlichen Entscheidung eine Rolle spielt - und auch bei vielen politischen. Vor allem wenn es um neue, klimafreundliche Technologien geht, befürchten viele Mi,  
 
 <YDILine name="economy_unemployed"/>
 
