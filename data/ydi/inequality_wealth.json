@@ -1,9 +1,9 @@
 {
   "key": "inequality_wealth",
-  "heading": "Das durchschnittliche Nettovermögen ist in den vergangenen 16 Jahren...",
+  "heading": "Das durchschnittliche Nettovermögen ist in den vergangenen acht Jahren...",
   "subheading": "",
-  "result": "**Dies ist die _Auflösung_.**",
-  "accessibility": "Dies ist der Text für Screenreader.",
+  "result": "**Tatsächlich ist das durschnittliche Nettoeinkommen aller Menschen in Deutschland, die älter als 17 Jahre sind, in den vergangenen acht Jahren stark angestiegen. Diesen enormen Zuwachs erklärt das Deutsche Institut für Wirtschaftsforschung vor allem mit den steigenden Werten von Immobilien und Wertpapieren, in denen Geld angelegt war.**",
+  "accessibility": "Tatsächlich ist das durschnittliche Nettoeinkommen aller Menschen in Deutschland, die älter als 17 Jahre sind, in den vergangenen acht Jahren stark angestiegen. Diesen enormen Zuwachs erklärt das Deutsche Institut für Wirtschaftsforschung vor allem mit den steigenden Werten von Immobilien und Wertpapieren, in denen Geld angelegt war.",
   "source": {
     "url": "http://example.com/",
     "title": "Eine Studie"
