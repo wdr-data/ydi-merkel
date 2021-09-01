@@ -5,5 +5,5 @@
 
 ### Credits
 
-- **Redaktion:** Raimund Groß
+- **Redaktion:** Rainer Kellers
 - **Programmierung:** Jannes Höke
