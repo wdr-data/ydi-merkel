@@ -9,12 +9,29 @@
     "title": "Eine Studie"
   },
   "knownData": [
-    {"label": "2002", "value": 0}
+    {
+      "label": "2002",
+      "value": 80476
+    },
+    {
+      "label": "2007",
+      "value": 82182
+    },
+    {
+      "label": "2012",
+      "value": 84319
+    },
+    {
+      "label": "2017",
+      "value": 105655
+    }
   ],
-  "unknownData": [
-    {"label": "2018", "value": 0}
-  ],
-  "maxY": 100000,
+  "unknownData": {
+    "label": "2019",
+    "value": 125472
+  },
+  "initialGuess": 50000,
+  "maxY": 250000,
   "unit": "€",
   "precision": 0,
   "customMargin": {
@@ -23,10 +40,9 @@
   },
   "tickValues": [
     "2002",
-    "2005",
-    "2009",
-    "2013",
+    "2007",
+    "2012",
     "2017",
-    "2020"
+    "2019"
   ]
 }

@@ -19,7 +19,7 @@
     "value": 58.9
   },
   "maxY": 100,
-  "initialGuess": 56.0,
+  "initialGuess": 25.0,
   "unit": "%",
   "precision": 1,
   "customMargin": {
