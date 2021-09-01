@@ -51,59 +51,39 @@ Beim Ausbau der Erneuerbaren Energien spielt vor allem die Windenergie eine gro�
 
 
 ## Soziale Ungleichheit
-
+### Nettovermögen
 Die Union betont ihrem Wahlprogramm, wie sie das Erfolgsmodell der sozialen Marktwirtschaft fortführen will, dass Deutschland zu einer der wohlhabensten Nationen der Welt gemacht hat. Steuererhöhungen und neue Staatsschulden sind dabei nicht vorgesehen. Im Gegensatz zur SPD, die vor allem höhere Steuern für Spitzenverdiener und Vermögende einführen will der reichen Lorem ipsum dolor sit amet, consectetur adipiscing elit. Summum ením bonum exposuit vacuitatem doloris; Eorum enim est haec querela, qui sibi cari sunt seseque diligunt.
 
 <YDIBar name="inequality_wealth"/>
 
+### Anteil am Gesamtvermögen der reichsten zehn Prozent
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sapientem locupletat ipsa natura, cuius divitias Epicurus parabiles esse docuit. Scisse enim te quis coarguere possit? Sed quid attinet de rebus tam apertis plura requirere? Eodem modo is enim tibi nemo dabit, quod, expetendum sit, id esse laudabile.
 
 <YDIBar name="inequality_top_ten"/>
 
+### Anteil der Bevölkerung ohne Nettovermögen
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Bonum negas esse divitias, praeposìtum esse dicis? Et nemo nimium beatus est; Ego vero isti, inquam, permitto. Ut optime, secundum naturam affectum esse possit. Verum esto: verbum ipsum voluptatis non habet dignitatem, nec nos fortasse intellegimus. Bona autem corporis huic sunt, quod posterius posui, similiora.
 
 <YDIBar name="inequality_none"/>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quod autem in homine praestantissimum atque optimum est, id deseruit. Sed haec omittamus; Et quidem saepe quaerimus verbum Latinum par Graeco et quod idem valeat; Earum etiam rerum, quas terra gignit, educatio quaedam et perfectio est non dissimilis animantium. Duo Reges: constructio interrete.
-
-
-## Gesundheit & Corona
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sin dicit obscurari quaedam nec apparere, quia valde parva sint, nos quoque concedimus; Quod autem ratione actum est, id officium appellamus. Qui ita affectus, beatum esse numquam probabis; Sed id ne cogitari quidem potest quale sit, ut non repugnet ipsum sibi. Callipho ad virtutem nihil adiunxit nisi voluptatem, Diodorus vacuitatem doloris.
-
-<YDILine name="health_hospitals"/>
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cuius ad naturam apta ratio vera illa et summa lex a philosophis dicitur. Quia dolori non voluptas contraria est, sed doloris privatio.
-
-<YDILine name="health_beds"/>
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quos nisi redarguimus, omnis virtus, omne decus, omnis vera laus deserenda est. Sed quid attinet de rebus tam apertis plura requirere? Quae cum dixisset, finem ille. Quantum Aristoxeni ingenium consumptum videmus in musicis?
-
-<YDILine name="health_beds_in_use"/>
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut enim consuetudo loquitur, id solum dicitur honestum, quod est populari fama gloriosum. Transfer idem ad modestiam vel temperantiam, quae est moderatio cupiditatum rationi oboediens. Prioris generis est docilitas, memoria; Non igitur bene. Atque his de rebus et splendida est eorum et illustris oratio. Utinam quidem dicerent alium alio beatiorem! Iam ruinas videres.
-
-
 ## Wirtschaft
-
+### Staatsausgaben
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non est enim vitium in oratione solum, sed etiam in moribus. Qui est in parvis malis. Est, ut dicis, inquam. Esse enim quam vellet iniquus iustus poterat inpune. Quod cum dixissent, ille contra. Ut aliquid scire se gaudeant? Duo Reges: constructio interrete.
 
 <YDILine name="economy_exports"/>
 
+### Staatsverschuldung
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Atque ab isto capite fluere necesse est omnem rationem bonorum et malorum. Qua tu etiam inprudens utebare non numquam. Nondum autem explanatum satis, erat, quid maxime natura vellet. Sed in rebus apertissimis nimium longi sumus.
 
-<YDILine name="economy_excess_exports"/>
+<YDILine name="economy_debt"/>
 
+### Arbeitslosigkeit
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Miserum hominem! Si dolor summum malum est, dici aliter non potest. Itaque vides, quo modo loquantur, nova verba fingunt, deserunt usitata. Ac tamen, ne cui loco non videatur esse responsum, pauca etiam nunc dicam ad reliquam orationem tuam. Terram, mihi crede, ea lanx et maria deprimet. Qui non moveatur et offensione turpitudinis et comprobatione honestatis?
 
 <YDILine name="economy_unemployed"/>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hoc enim identidem dicitis, non intellegere nos quam dicatis voluptatem. Nos paucis ad haec additis finem faciamus aliquando; Sed eum qui audiebant, quoad poterant, defendebant sententiam suam. Pudebit te, inquam, illius tabulae, quam Cleanthes sane commode verbis depingere solebat.
-
-<YDILine name="economy_debt"/>
-
-## Asylpolitik
-
+## Flüchtlingspolitik
+### Asylanträge
 Bei keinem Thema unterscheiden sich die Ansichten und Pläne der Parteien so stark, wie beim Thema Migration. Die Marschroute der Union hat deren Kanzlerkandidat Armin Laschet ziemlich deutlich gemacht: "2015 darf sich nicht wiederholen!", so Laschet. CDU und CSU wollen, dass weniger Menschen nach Deutschland flüchten. Erreicht werden soll das durch die Erleichterung von Abschiebungen, das Durchsetzen von Ausreisepflichten aber auch die Reform des Asylsystems der EU. Damit will die Union genau wie die SPD sicherstellen, dass die Asylsuchenden und die Kosten fairer auf alle Mitgliedsstaaten verteilt werden. Aber wie haben sich die Flüchtlingszahlen in den vergangenen vier Jahren überhaupt entwickelt?
 
 <YDILine name="immigration_asylum"/>
