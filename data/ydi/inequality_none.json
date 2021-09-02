@@ -1,12 +1,12 @@
 {
   "key": "inequality_none",
-  "heading": "Keinerlei Vermögen oder sogar Schulden besitzen...",
-  "subheading": "",
-  "result": "**Dies ist die _Auflösung_.**",
-  "accessibility": "Dies ist der Text für Screenreader.",
+  "heading": "Keinerlei Vermögen besitzen...",
+  "subheading": "Schätzen Sie den Anteil der Bevölkerung, der keinerlei Vermögen besitzt",
+  "result": "**Genau wie beim Anteil des Gesamtvermögens hat sich auch beim Anteil der Menschen, die gar keine Vermögen besitzen, in den vergangenen 20 Jahren nicht viel geändert. Grund dafür ist, dass die Menschen, die weder Geld zum Anlegen noch Immobilien besitzen, auch nicht von der Wertsteigerung dieser Güter profitieren können.**",
+  "accessibility": "Genau wie beim Anteil des Gesamtvermögens hat sich auch beim Anteil der Menschen, die gar keine Vermögen besitzen, in den vergangenen 20 Jahren nicht viel geändert. Grund dafür ist, dass die Menschen, die weder Geld zum Anlegen noch Immobilien besitzen, auch nicht von der Wertsteigerung dieser Güter profitieren können.",
   "source": {
-    "url": "http://example.com/",
-    "title": "Eine Studie"
+    "url": "https://www.destatis.de/DE/Service/Statistik-Campus/Datenreport/Downloads/datenreport-2021-kap-6.pdf?__blob=publicationFile",
+    "title": "DIW"
   },
   "knownData": [
     {
