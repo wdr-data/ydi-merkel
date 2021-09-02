@@ -2,8 +2,8 @@
   "key": "economy_unemployed",
   "heading": "Die Arbeitslosenquote ist...",
   "subheading": "Schätzen Sie, wie sich die Arbeitslosigkeit in den vergangenen acht Jahren entwickelt hat",
-  "result": "**Dies ist die _Auflösung_.**",
-  "accessibility": "Dies ist der Text für Screenreader.",
+  "result": "**Seit der Neuauflage der Große Koalition im Jahr 2013 gab es bei der Arbeitslosigkeit nur einen Trend: Sie sank. Was allerdings auch damit zusammenhängt, dass die offiziellen Kriterien, wann jemand als arbeitslos gilt, immer wieder geändert werden - meist so, dass die Arbeitslosenquote sinkt. Doch trotz solcher Gesetzesänderungen schnellte die Zahl der Arbeitslosen im Jahr 2020 mit dem Beginn der Corona-Pandmie in die Höhe.**",
+  "accessibility": "Seit der Neuauflage der Große Koalition im Jahr 2013 gab es bei der Arbeitslosigkeit nur einen Trend: Sie sank. Was allerdings auch damit zusammenhängt, dass die offiziellen Kriterien, wann jemand als arbeitslos gilt, immer wieder geändert werden - meist so, dass die Arbeitslosenquote sinkt. Doch trotz solcher Gesetzesänderungen schnellte die Zahl der Arbeitslosen im Jahr 2020 mit dem Beginn der Corona-Pandmie in die Höhe.",
   "source": {
     "url": "https://www.destatis.de/DE/Themen/Wirtschaft/Konjunkturindikatoren/Lange-Reihen/Arbeitsmarkt/lrarb003ga.html",
     "title": "Statistisches Bundesamt"
