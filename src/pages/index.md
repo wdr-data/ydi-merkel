@@ -1,6 +1,6 @@
 ---
 title: "Bundestagswahl 2021: Was schätzen Sie?"
-description: Lorem Ipsum
+description: "Schätzen Sie selbst, wie sich CO2-Ausstoß, Nettovermögen, Arbeitslosigkeit und die Zahl der Asylanträge während der vergangenen zwei Legislaturperioden entwickelt haben."
 author: Jörn Kießler
 pub_date: "2021-08-30"
 heroImage: "richard-wagner-und-freunde.jpg"
