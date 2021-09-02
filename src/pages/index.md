@@ -77,7 +77,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Atque ab isto capite fl
 <YDILine name="economy_debt"/>
 
 ### Arbeitslosigkeit
-Arbeitsplätze sind ein Argument, dass bei jeder wirtschaftlichen Entscheidung eine Rolle spielt - und auch bei vielen politischen. Vor allem wenn es um neue, klimafreundliche Technologien geht, befürchten viele Mi,  
+Arbeitsplätze sind ein Argument, das bei jeder wirtschaftlichen Entscheidung eine Rolle spielt - und auch bei vielen politischen. Vor allem wenn es darum geht, dass neue Technologien oder beispielsweise umweltpolitische Ziele bestimmte Branchen ablösen könnten oder Industriezweige bedrohen. So argumentiert die traditionelle deutsche Automobilindustrie immer wieder, wie viele Jobs durch ein Ende des Verbrennungsmotors gefährdet seien. Ein anderes Beispiel ist der Kohleausstieg. Doch wie viele Arbeitsplätze haben die Veränderungend er vergangenen acht Jahre wirklich gekostet?
 
 <YDILine name="economy_unemployed"/>
 
