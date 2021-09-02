@@ -1,7 +1,7 @@
 {
   "key": "economy_unemployed",
   "heading": "Die Arbeitslosenquote ist...",
-  "subheading": "",
+  "subheading": "Schätzen Sie, wie sich die Arbeitslosigkeit in den vergangenen acht Jahren entwickelt hat",
   "result": "**Dies ist die _Auflösung_.**",
   "accessibility": "Dies ist der Text für Screenreader.",
   "source": {
