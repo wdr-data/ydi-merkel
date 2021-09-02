@@ -88,7 +88,4 @@ Bei keinem Thema unterscheiden sich die Ansichten und Pläne der Parteien so sta
 <YDILine name="immigration_asylum"/>
 
 
-<Quote author="Angela Merkel">Wir schaffen das.</Quote>
-
-
 <Sharing twitter facebook mail whatsapp telegram reddit xing linkedin />
