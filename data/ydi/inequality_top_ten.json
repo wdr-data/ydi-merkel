@@ -2,25 +2,25 @@
   "key": "inequality_top_ten",
   "heading": "Die reichsten 10 Prozent der Deutschen besitzen davon...",
   "subheading": "",
-  "result": "**Dies ist die _Auflösung_.**",
-  "accessibility": "Dies ist der Text für Screenreader.",
+  "result": "**Bei der Verteilung des Vermögens in Deutschland hat sich in den vergangenen fast 20 Jahren nicht viel getan. Zu diesem Schluss kommen zumindest die Forscher des Deutschen Instituts für Wirtschaftsforschung. Sie geben aber auch zu bedenken, dass die Zahlen mit Vorsicht zu genießen sind, da die Statistik, mit der sie berechnet wurden, die hohen Vermögen nicht hinreichend abdeckt.**",
+  "accessibility": "Bei der Verteilung des Vermögens in Deutschland hat sich in den vergangenen fast 20 Jahren nicht viel getan. Zu diesem Schluss kommen zumindest die Forscher des Deutschen Instituts für Wirtschaftsforschung. Sie geben aber auch zu bedenken, dass die Zahlen mit Vorsicht zu genießen sind, da die Statistik, mit der sie berechnet wurden, die hohen Vermögen nicht hinreichend abdeckt.",
   "source": {
-    "url": "https://www.diw.de/documents/publikationen/73/diw_01.c.821117.de/21-27-1.pdf",
+    "url": "https://www.diw.de/documents/publikationen/73/diw_01.c.496880.de/15-7.pdf",
     "title": "DIW"
   },
   "knownData": [
     {
       "label": "2002",
-      "value": 0.0
+      "value": 67
     },
     {
       "label": "2012",
-      "value": 0.0
+      "value": 65
     }
   ],
   "unknownData": {
     "label": "2020",
-    "value": 58.9
+    "value": 67
   },
   "maxY": 100,
   "initialGuess": 25.0,
