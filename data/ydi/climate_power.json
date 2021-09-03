@@ -89,7 +89,7 @@
     }
   ],
   "maxY": 100,
-  "unit": " Prozent",
+  "unit": " %",
   "precision": 0,
   "customMargin": {
     "left": 115,
