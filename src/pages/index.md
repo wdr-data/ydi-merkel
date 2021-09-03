@@ -70,12 +70,12 @@ AAn den Ausgaben des Staats lässt sich in einem gewissen Maß ablesen, wie es u
 <YDILine name="economy_expenses"/>
 
 ### Staatsverschuldung
-Reichen die eingenommen Steuern nicht für für die Ausgaben des Bundes aus, muss der Staat Schulden machen - was die Union laut ihrem Wahlprogramm in Zukunft vermeiden will. Wie hat sich der Schuldenstand Deutschlands unter der Großen Koalition entwickelt?
+Reichen die Einnahmen nicht für für die Ausgaben des Bundes aus, muss der Staat Schulden machen. Wie hat sich der Schuldenstand Deutschlands unter der Großen Koalition entwickelt?
 
 <YDILine name="economy_debt"/>
 
 ### Arbeitslosigkeit
-Arbeitsplätze sind ein Argument, das bei jeder wirtschaftlichen Entscheidung eine Rolle spielt - und auch bei vielen politischen. Vor allem wenn es darum geht, dass neue Technologien oder beispielsweise umweltpolitische Ziele bestimmte Branchen ablösen könnten oder Industriezweige bedrohen. So argumentiert die traditionelle deutsche Automobilindustrie immer wieder, wie viele Jobs durch ein Ende des Verbrennungsmotors gefährdet seien. Ein anderes Beispiel ist der Kohleausstieg. Doch wie viele Arbeitsplätze haben die Veränderungen der vergangenen acht Jahre wirklich gekostet?
+Arbeitsplätze sind ein Argument, das bei jeder wirtschaftlichen Entscheidung eine Rolle spielt - und auch bei vielen politischen. Doch wie viele Arbeitsplätze haben die Veränderungen der vergangenen acht Jahre wirklich gekostet oder geschaffen?
 
 <YDILine name="economy_unemployed"/>
 
