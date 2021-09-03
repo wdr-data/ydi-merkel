@@ -49,7 +49,7 @@ Beim Ausbau der Erneuerbaren Energien spielt vor allem die Windenergie eine gro�
 
 ## Soziale Ungleichheit
 ### Nettovermögen
-Die Union betont ihrem Wahlprogramm, wie sie das Erfolgsmodell der sozialen Marktwirtschaft fortführen will, das Deutschland zu einer der wohlhabensten Nationen der Welt gemacht hat. Als Gradmesser, wie viel die Bevölkerung von diesem Wohlstand besitzt, beschreibt das Deutsche Institut für Wirtschaftsforschung das private Nettovermögen. Dazu gehören neben dem Geld auf der Bank unter anderem auch Immobilien, Aktien und Wertpapiere, das Vermögen aus Versicherungen, Wert- und Kunstgegenstände, Fahrzege sowie das das Betriebsvermögen eines eigenen Unternehmens. Abziehen muss man davon die Verbindlichkeiten wie Hypotheken und Kredite. Wie hat sich das Wohlhaben in Deutschland in den vergangenen acht Jahre unter Schwarz-rot denn entwickelt?
+Die Union betont in ihrem Wahlprogramm, dass sie das Erfolgsmodell der sozialen Marktwirtschaft fortführen will, das Deutschland zu einer der wohlhabendsten Nationen der Welt gemacht habe. Als Gradmesser, wie viel die Bevölkerung von diesem Wohlstand besitzt, nennt das Deutsche Institut für Wirtschaftsforschung das private Nettovermögen. Dazu gehören neben dem gesparten Geld unter anderem auch Immobilien, Aktien und Wertpapiere, das Vermögen aus Versicherungen, Wert- und Kunstgegenstände, Fahrzeuge sowie das Betriebsvermögen eines eigenen Unternehmens. Abziehen muss man davon die Verbindlichkeiten wie Hypotheken und Kredite. Wie hat sich das Vermögen in Deutschland in den vergangenen acht Jahren unter Schwarz-Rot entwickelt?
 
 <YDIBar name="inequality_wealth"/>
 
