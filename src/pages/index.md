@@ -56,7 +56,7 @@ Die Union betont ihrem Wahlprogramm, wie sie das Erfolgsmodell der sozialen Mark
 <YDIBar name="inequality_wealth"/>
 
 ### Anteil am Gesamtvermögen der reichsten zehn Prozent
-Durchschnittlisches Einkommen, ist eine Sache. Wie es dann tatsächlich verteilt ist, eine andere. Um die Ärmeren zu entlasten will die SPD laut ihrem Wahlprogramm die Steuern vor allem für Spitzenverdiener erhöhen und auch eine Vermögenssteuer einführen. Aber ist das Vermögen in Deutschland wirklich so ungleich verteilt?
+Durchschnittliches Einkommen ist eine Sache. Wie es dann tatsächlich verteilt ist, eine andere. Um die Ärmeren zu entlasten will die SPD laut ihrem Wahlprogramm die Steuern vor allem für Spitzenverdiener erhöhen und auch eine Vermögenssteuer einführen. Aber ist das Vermögen in Deutschland wirklich so ungleich verteilt?
 
 <YDIBar name="inequality_top_ten"/>
 
@@ -67,12 +67,12 @@ Wenn wenige Reiche viel Vermögen besitzen, bleibt nicht mehr viel für die schl
 
 ## Wirtschaft
 ### Staatsausgaben
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non est enim vitium in oratione solum, sed etiam in moribus. Qui est in parvis malis. Est, ut dicis, inquam. Esse enim quam vellet iniquus iustus poterat inpune. Quod cum dixissent, ille contra. Ut aliquid scire se gaudeant? Duo Reges: constructio interrete.
+An den Ausgaben des Staats lässt sich in einem gewissen Maß auch ablesen, wie es um die Gemeinschaft bestellt ist. Der größte Anteil der Staatsausgaben fließt nämlich in Sozialleistungen wie Rente, Arbeitslosen- und Krankenversicherung ein. Wirtschaftet der Bund vorausschauend, halten sich die Ausgaben und Einnahmen vor allem aus den Steuern, die Waage. Krisen wie beispielsweise die Finanzkrise 2008 oder auch die Corona-Pandemie können aber auch die besten Haushaltspläne über den haufen werfen. Wie hat die Große Koalition denn bis zur Covid-Pandemie gewirtschaftet?
 
 <YDILine name="economy_expenses"/>
 
 ### Staatsverschuldung
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Atque ab isto capite fluere necesse est omnem rationem bonorum et malorum. Qua tu etiam inprudens utebare non numquam. Nondum autem explanatum satis, erat, quid maxime natura vellet. Sed in rebus apertissimis nimium longi sumus.
+Reichen die eingenommen Steuern nicht für für die Ausgaben des Bundes aus, muss der Staat Schulden machen - was gerade die Union laut ihrem Wahlprogramm in Zukunft vermeiden will. Wie hat sich der Schuldenstand Deutschlands unter der Großen Koalition entwickelt?
 
 <YDILine name="economy_debt"/>
 
