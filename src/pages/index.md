@@ -45,13 +45,13 @@ Mehr als ein Viertel und damit der größte Teil der Treibhausgase entsteht in D
 <YDILine name="climate_power"/>
 
 ### Windkraftanlagen
-Beim Ausbau der Erneuerbaren Energien spielt vor allem die Windenergie eine große Rolle. Schon jetzt wird der größte Teil der Erneuerbaren Energien in Windkraftanlagen gewonnen. CDU und CSU wollen den Ausbau von Windrädern forcieren, wie es in ihrem Wahlprogramm heißt. Auch die SPD identifiziert Windkraft und Sonne als Energiequellen der Zukunft. Wie ging der Ausbau der Windkenergie unter der Regierung der beiden Koalitionspartner voran?
+Beim Ausbau der Erneuerbaren Energien spielt vor allem die Windenergie eine große Rolle. Im Jahr 2013 wurde mehr als ein Drittel des grünen Stroms in Windkraftanlagen gewonnen. CDU und CSU wollen den Ausbau von Windrädern weiter forcieren, wie es in ihrem Wahlprogramm heißt. Auch die SPD identifiziert Windkraft und Sonne als Energiequellen der Zukunft. Wie ging der Ausbau der Windkenergie unter der Regierung der beiden Koalitionspartner voran?
 
 <YDILine name="climate_wind"/>
 
 ## Soziale Ungleichheit
 ### Nettovermögen
-Die Union betont ihrem Wahlprogramm, wie sie das Erfolgsmodell der sozialen Marktwirtschaft fortführen will, das Deutschland zu einer der wohlhabensten Nationen der Welt gemacht hat. Wie hat sich das Wohlhaben in Deutschland in den vergangenen acht Jahre unter Schwarz-rot denn entwickelt?
+Die Union betont ihrem Wahlprogramm, wie sie das Erfolgsmodell der sozialen Marktwirtschaft fortführen will, das Deutschland zu einer der wohlhabensten Nationen der Welt gemacht hat. Als Gradmesser, wie viel die Bevölkerung von diesem Wohlstand besitzt, beschreibt das Deutsche Institut für Wirtschaftsforschung das private Nettovermögen. Dazu gehören neben dem Geld auf der Bank unter anderem auch Immobilien, Aktien und Wertpapiere, das Vermögen aus Versicherungen, Wert- und Kunstgegenstände, Fahrzege sowie das das Betriebsvermögen eines eigenen Unternehmens. Abziehen muss man davon die Verbindlichkeiten wie Hypotheken und Kredite. Wie hat sich das Wohlhaben in Deutschland in den vergangenen acht Jahre unter Schwarz-rot denn entwickelt?
 
 <YDIBar name="inequality_wealth"/>
 
