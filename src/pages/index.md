@@ -24,10 +24,8 @@ import YDILine from '../components/ydi/ydiLine.jsx'
 import { Link, LinkList } from '../components/link/link.jsx'
 
 ## Bundestagswahl 2021
-# Welche Themen hatte die große Koalition schon im Fokus?
-Klimawandel, Wirtschaft, Wohlstand und Flüchtlingspolitik: Die Themenfelder für die Bundestagswahl am 26. September 2021 sind abgesteckt. Auch wenn die einzelnen Parteien die Herausforderungen unterschiedlich angehen, die anvisierten Ziele sind die selben: den Klimawandel zumindest verlangsamen, die Wirtschaft stärken und den Wohlstand des Landes sichern. Das versprechen die Parteien zumindest in ihren Wahlprogrammen.
-
-Viele der Probleme, deren Lösung die Parteien nach der Wahl angehen wollen, sind nicht neu. Und vier der großen Parteien waren in den vergangenen 20 Jahren bereits an den Regierungen beteiligt und hatten die Möglichkeit, etwas zu tun. Die Große Koalition aus Union und Sozialdemokraten stellte in den vergangenen acht Jahren das Kabinett. Doch wie erfolgreich war in dieser Zeit der Kampf gegen den Klimawandel? Wie hat sich die deutsche Wirtschaft entwickelt? Wie wurde der Wohlstand auf die Bevölkerung verteilt?
+# Was schätzen Sie: Wie hat sich Deutschland unter der Groko verändert?
+Klimawandel, Wirtschaft, Wohlstand und Flüchtlingspolitik: Die Themenfelder für die Bundestagswahl am 26. September 2021 sind abgesteckt. Wie die Parteien sie angehen wollen, steht in ihren Wahlprogrammen. Im Gegensatz zu den anderen Parteien hatten Union und SPD im Rahmen der Großen Koalition schon in den vergangenen acht Jahren die Möglichkeit, Akzente in ihrer Politik zu setzen. Inwiefern haben sie das auch getan?
 
 ## Was schätzen Sie?
 Mit „Was schätzen Sie?“ laden wir Sie ein, Ihre gefühlte Wahrheit auf den Prüfstand zu stellen. Ziehen Sie mit der Maus oder dem Finger die Balken und Linien so, wie Sie die jeweiligen Zahlen einschätzen. Mit einem Klick auf "Wie ist's tatsächlich?" erhalten Sie das Ergebnis.
@@ -35,12 +33,12 @@ Mit „Was schätzen Sie?“ laden wir Sie ein, Ihre gefühlte Wahrheit auf den 
 
 ## Klima
 ### CO2-Emissionen
-Darin, dass die CO2-Emissionen drastisch reduziert werden müssen, um der Erderwärmung Einhalt zu gebieten, sind sich fast alle Parteien einig. Auch, weil die Erkenntnis, dass CO2 ein Klimakiller ist, nicht neu ist. Doch wie hat sich der CO2-Ausstoß in Deutschland während der letzten beiden Legislaturperioden entwickelt?
+Dass die CO2-Emissionen drastisch reduziert werden müssen, um die Erderwärmung zu stoppen, darin sind sich fast alle Parteien einig. Die Erkenntnis, dass CO2 ein Klimakiller ist, ist ja auch nicht neu. Doch wie hat sich der CO2-Ausstoß in Deutschland während der letzten beiden Legislaturperioden entwickelt?
 
 <YDILine name="climate_emissions"/>
 
 ### Erneuerbare Energien
-Mehr als ein Viertel und damit der größte Teil der Treibhausgase entsteht in Deutschland in der Energiewirtschaft. Die Umstellung dieses Sektors auf Erneuerbare Energien ist also ein wichtiger Bestandteil, wenn Deutschland klimaneutral werden will. Wie viel Strom wird denn schon jetzt aus Erneuerbaren Engerien gewonnen?
+Mehr als ein Viertel - und damit der größte Teil der Treibhausgase - entsteht in Deutschland in der Energiewirtschaft. Die Umstellung dieses Sektors auf Erneuerbare Energien ist also wichtig, wenn Deutschland klimaneutral werden will. Wie viel Strom wird denn schon jetzt aus Erneuerbaren Energien gewonnen?
 
 <YDILine name="climate_power"/>
 
