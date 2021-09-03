@@ -1,6 +1,6 @@
 ### Daten
 
-- - TODO
+- - CO2-Emissionen: [Bundesumweltamt](https://www.umweltbundesamt.de/dokument/emissionsuebersichten-in-den-sektoren-des) 
 
 ### Code
 
