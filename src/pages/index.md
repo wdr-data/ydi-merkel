@@ -43,7 +43,7 @@ Mehr als ein Viertel - und damit der größte Teil der Treibhausgase - entsteht 
 <YDILine name="climate_power"/>
 
 ### Windkraftanlagen
-Beim Ausbau der Erneuerbaren Energien spielt vor allem die Windenergie eine große Rolle. Im Jahr 2013 wurde mehr als ein Drittel des grünen Stroms in Windkraftanlagen gewonnen. CDU und CSU wollen den Ausbau von Windrädern weiter forcieren, wie es in ihrem Wahlprogramm heißt. Auch die SPD identifiziert Windkraft und Sonne als Energiequellen der Zukunft. Wie ging der Ausbau der Windkenergie unter der Regierung der beiden Koalitionspartner voran?
+Beim Ausbau der Erneuerbaren Energien spielt vor allem die Windenergie eine große Rolle. Im Jahr 2013 wurde mehr als ein Drittel des grünen Stroms in Windkraftanlagen gewonnen. CDU und CSU wollen den Ausbau von Windrädern weiter forcieren, heißt es in ihrem Wahlprogramm. Auch die SPD identifiziert Windkraft und Sonne als Energiequellen der Zukunft. Wie ging der Ausbau der Windenergie in der Regierungszeit der beiden Koalitionspartner voran?
 
 <YDILine name="climate_wind"/>
 
