@@ -1,7 +1,7 @@
 {
   "key": "climate_power",
-  "heading": "Die Strommenge aus Erneuerbaren Energien ist...",
-  "subheading": "Schätzen Sie, wie viel Strom durch Erneuerbare Energien erzeugt wurde",
+  "heading": "Der Anteil des aus Erneuerbaren Energien gewonnenen Stroms ist...",
+  "subheading": "Schätzen Sie, wie sich der Anteil der Erneuerbaren Energien am Bruttostromverbrauch verändert hat",
   "result": "**Der Anteil der Erneuerbaren Energien am deutschen Strommix ist während der vergangenen beiden Legislaturperioden um etwa zwei Drittel gestiegen. Seit 2015 nahm vor allem die Menge des durch Photovoltaik erzeugten Stroms zu – um 31 Prozent in fünf Jahren. Allein von 2019 auf 2020 wuchs die erzeugte Energie von 46.400 auf 50.600 GWh.**",
   "accessibility": "Der Anteil der Erneuerbaren Energien am deutschen Strommix ist während der vergangenen beiden Legislaturperioden um etwa zwei Drittel gestiegen. Seit 2015 nahm vor allem die Menge des durch Photovoltaik erzeugten Stroms zu – um 31 Prozent in fünf Jahren. Allein von 2019 auf 2020 wuchs die erzeugte Energie von 46.400 auf 50.600 GWh.",
   "source": {
@@ -11,85 +11,85 @@
   "knownData": [
     {
       "label": "2002",
-      "value": 45436
+      "value": 7.7
     },
     {
       "label": "2003",
-      "value": 46670
+      "value": 7.7
     },
     {
       "label": "2004",
-      "value": 57957
+      "value": 9.4
     },
     {
       "label": "2005",
-      "value": 63400
+      "value": 10.3
     },
     {
       "label": "2006",
-      "value": 72509
+      "value": 11.6
     },
     {
       "label": "2007",
-      "value": 89368
+      "value": 14.3
     },
     {
       "label": "2008",
-      "value": 94280
+      "value": 15.2
     },
     {
       "label": "2009",
-      "value": 95939
+      "value": 16.4
     },
     {
       "label": "2010",
-      "value": 105181
+      "value": 17.0
     },
     {
       "label": "2011",
-      "value": 124037
+      "value": 20.4
     },
     {
       "label": "2012",
-      "value": 143043
+      "value": 23.5
     },
     {
       "label": "2013",
-      "value": 152338
+      "value": 25.1
     }
   ],
   "unknownData": [
     {
       "label": "2014",
-      "value": 162525
+      "value": 27.4
     },
     {
       "label": "2015",
-      "value": 188786
+      "value": 31.5
     },
     {
       "label": "2016",
-      "value": 189671
+      "value": 31.6
     },
     {
       "label": "2017",
-      "value": 216324
+      "value": 36.0
     },
     {
       "label": "2018",
-      "value": 224506
+      "value": 37.8
     },
     {
       "label": "2019",
-      "value": 242434
+      "value": 42.0
     },
     {
       "label": "2020",
-      "value": 251014
+      "value": 45.4
     }
   ],
-  "maxY": 500000,
-  "unit": " GWh",
+  "maxY": 100,
+  "unit": " Prozent",
   "precision": 0,
   "customMargin": {
     "left": 115,
