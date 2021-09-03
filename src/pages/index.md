@@ -54,18 +54,18 @@ Die Union betont in ihrem Wahlprogramm, dass sie das Erfolgsmodell der sozialen 
 <YDIBar name="inequality_wealth"/>
 
 ### Anteil am Gesamtvermögen der reichsten zehn Prozent
-Durchschnittliches Einkommen ist eine Sache. Wie es dann tatsächlich verteilt ist, eine andere. Um die Ärmeren zu entlasten will die SPD laut ihrem Wahlprogramm die Steuern vor allem für Spitzenverdiener erhöhen und auch eine Vermögenssteuer einführen. Aber ist das Vermögen in Deutschland wirklich so ungleich verteilt?
+Durchschnittliches Einkommen ist eine Sache. Wie es tatsächlich verteilt ist, eine andere. Um die Ärmeren zu entlasten, will die SPD laut ihrem Wahlprogramm die Steuern vor allem für Spitzenverdiener erhöhen und auch eine Vermögenssteuer einführen. Aber ist das Vermögen in Deutschland wirklich so ungleich verteilt?
 
 <YDIBar name="inequality_top_ten"/>
 
 ### Anteil der Bevölkerung ohne Nettovermögen
-Wenn wenige Reiche viel Vermögen besitzen, bleibt nicht mehr viel für die schlechter Gestellten übrig. Zu diesen gehören auch die Menschen, die überhaupt kein Vermögen besitzen. Wie hat sich ihr Anteil in der Gesellschaft unter Schwarz-Rot verändert?
+Wenn wenige Reiche viel Vermögen besitzen, bleibt nicht mehr viel für die Schlechtergestellten übrig. Zu diesen gehören auch die Menschen, die überhaupt kein Vermögen besitzen. Wie hat sich ihr Anteil in der Gesellschaft unter Schwarz-Rot verändert?
 
 <YDIBar name="inequality_none"/>
 
 ## Wirtschaft
 ### Staatsausgaben
-An den Ausgaben des Staats lässt sich in einem gewissen Maß auch ablesen, wie es um die Gemeinschaft bestellt ist. Der größte Anteil der Staatsausgaben fließt nämlich in Sozialleistungen wie Rente, Arbeitslosen- und Krankenversicherung ein. Wirtschaftet der Bund vorausschauend, halten sich die Ausgaben und Einnahmen vor allem aus den Steuern, die Waage. Krisen wie beispielsweise die Finanzkrise 2008 oder auch die Corona-Pandemie können aber auch die besten Haushaltspläne über den haufen werfen. Wie hat die Große Koalition denn bis zur Covid-Pandemie gewirtschaftet?
+AAn den Ausgaben des Staats lässt sich in einem gewissen Maß ablesen, wie es um die Gemeinschaft bestellt ist. Der größte Anteil der Staatsausgaben fließt nämlich in Sozialleistungen wie Rente, Arbeitslosen- und Krankenversicherung ein. Wirtschaftet der Bund vorausschauend, halten sich die Ausgaben und Einnahmen vor allem aus den Steuern die Waage. Krisen wie beispielsweise die Finanzkrise 2008 oder auch die Corona-Pandemie können aber auch die besten Haushaltspläne über den Haufen werfen. Wie hat die Große Koalition bis zur Covid-Pandemie gewirtschaftet?
 
 <YDILine name="economy_expenses"/>
 
