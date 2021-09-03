@@ -2,8 +2,8 @@
   "key": "climate_power",
   "heading": "Der Anteil des aus Erneuerbaren Energien gewonnenen Stroms ist...",
   "subheading": "Schätzen Sie, wie sich der Anteil der Erneuerbaren Energien am Bruttostromverbrauch verändert hat",
-  "result": "**Der Anteil der Erneuerbaren Energien am deutschen Strommix ist während der vergangenen beiden Legislaturperioden um etwa zwei Drittel gestiegen. Seit 2015 nahm vor allem die Menge des durch Photovoltaik erzeugten Stroms zu – um 31 Prozent in fünf Jahren. Allein von 2019 auf 2020 wuchs die erzeugte Energie von 46.400 auf 50.600 GWh.**",
-  "accessibility": "Der Anteil der Erneuerbaren Energien am deutschen Strommix ist während der vergangenen beiden Legislaturperioden um etwa zwei Drittel gestiegen. Seit 2015 nahm vor allem die Menge des durch Photovoltaik erzeugten Stroms zu – um 31 Prozent in fünf Jahren. Allein von 2019 auf 2020 wuchs die erzeugte Energie von 46.400 auf 50.600 GWh.",
+  "result": "**Der Anteil der Erneuerbaren Energien am deutschen Strommix ist während der vergangenen beiden Legislaturperioden um etwa zwei Drittel gestiegen. Seit 2015 nahm vor allem die Menge des durch Photovoltaik erzeugten Stroms zu – um 31 Prozent in fünf Jahren. Allein von 2019 auf 2020 wuchs die erzeugte Solarenergie von 46.400 auf 50.600 GWh. Zum Vergleich: Diese Menge würde ausreichen, um ganz Düsseldorf ein Jahr lang mit Strom zu versorgen.**",
+  "accessibility": "Der Anteil der Erneuerbaren Energien am deutschen Strommix ist während der vergangenen beiden Legislaturperioden um etwa zwei Drittel gestiegen. Seit 2015 nahm vor allem die Menge des durch Photovoltaik erzeugten Stroms zu – um 31 Prozent in fünf Jahren. Allein von 2019 auf 2020 wuchs die erzeugte Energie von 46.400 auf 50.600 GWh. Zum Vergleich: Diese Menge würde ausreichen, um ganz Düsseldorf ein Jahr lang mit Strom zu versorgen.",
   "source": {
     "url": "https://www.erneuerbare-energien.de/EE/Redaktion/DE/Downloads/zeitreihen-zur-entwicklung-der-erneuerbaren-energien-in-deutschland-1990-2020.pdf;jsessionid=023B809DA7798535F1CD91F41349E32E?__blob=publicationFile&v=31",
     "title": "BMWi"
