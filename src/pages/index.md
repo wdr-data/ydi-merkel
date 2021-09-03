@@ -4,8 +4,8 @@ description: "Schätzen Sie selbst, wie sich CO2-Ausstoß, Nettovermögen, Arbei
 author: Jörn Kießler
 pub_date: "2021-08-30"
 heroImage: "kabinett-grosse-koalition.jpg"
-heroAlt: "Der Reichstag in Berlin, Sitz des deutschen Bundestags"
-heroCredit: "Der Reichstag in Berlin, Sitz des deutschen Bundestags"
+heroAlt: "Die Regierungsbank in Deutschen Bundestag mit Regierungsbank mit Bundesgesundheitsminister Jens Spahn (CDU), Bundesfamilienministerin Franziska Giffey (SPD), Bundeslandwirtschaftsministerin Julia Kloeckner (CDU), Bundesarbeitsminister Hubertus Heil (SPD), Bundesaussenminister Heiko Maas (SPD), Bundesinnenminister Horst Seehofer (CSU), Bundesfinanzminister Olaf Scholz (SPD) und Bundeskanzlerin Angela Merkel (CDU) (von hinten links nach vorne rechts)."
+heroCredit: "Die Regierungsbank im Deutschen Bundestag"
 sharingImageFacebook: "kabinett-grosse-koalition.jpg"
 sharingImageTwitter: "kabinett-grosse-koalition.jpg"
 cg1: "WDR"
