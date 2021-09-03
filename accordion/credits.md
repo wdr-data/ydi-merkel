@@ -1,6 +1,6 @@
 ### Bildrechte:
 
-- - Aufmacher-Bild: Richard Wagner und seine Freunde, Foto von Joseph Albert (picture alliance / akg-images)
+- - Aufmacher-Bild: Die Regierungsbank in Deutschen Bundestag, Foto von Florian Gaertner  (imago images/photothek)
 
 
 ### Credits
