@@ -2,8 +2,8 @@
   "key": "climate_power",
   "heading": "Die Strommenge aus Erneuerbaren Energien ist...",
   "subheading": "Schätzen Sie, wie viel Strom durch Erneuerbare Energien erzeugt wurde",
-  "result": "**Der Anteil, der Erneuerbaren Energien am deutschen Strommix ist während der vergangenen beiden Legislaturperiode um etwa zwei Drittel gestiegen. Seit 2015 nahm vor allem die Menge des durch Photovoltaik erzeugten Stroms zu – um 31 Prozent in fünf Jahren. Allein von 2019 auf 2020 wuchs die erzeugte Energie von 46.400 auf 50.600 GWh.**",
-  "accessibility": "Der Anteil, der Erneuerbaren Energien am deutschen Strommix ist während der vergangenen beiden Legislaturperiode um etwa zwei Drittel gestiegen. Seit 2015 nahm vor allem die Menge des durch Photovoltaik erzeugten Stroms zu – um 31 Prozent in fünf Jahren. Allein von 2019 auf 2020 wuchs die erzeugte Energie von 46.400 auf 50.600 GWh.",
+  "result": "**Der Anteil der Erneuerbaren Energien am deutschen Strommix ist während der vergangenen beiden Legislaturperioden um etwa zwei Drittel gestiegen. Seit 2015 nahm vor allem die Menge des durch Photovoltaik erzeugten Stroms zu – um 31 Prozent in fünf Jahren. Allein von 2019 auf 2020 wuchs die erzeugte Energie von 46.400 auf 50.600 GWh.**",
+  "accessibility": "Der Anteil der Erneuerbaren Energien am deutschen Strommix ist während der vergangenen beiden Legislaturperioden um etwa zwei Drittel gestiegen. Seit 2015 nahm vor allem die Menge des durch Photovoltaik erzeugten Stroms zu – um 31 Prozent in fünf Jahren. Allein von 2019 auf 2020 wuchs die erzeugte Energie von 46.400 auf 50.600 GWh.",
   "source": {
     "url": "https://www.erneuerbare-energien.de/EE/Redaktion/DE/Downloads/zeitreihen-zur-entwicklung-der-erneuerbaren-energien-in-deutschland-1990-2020.pdf;jsessionid=023B809DA7798535F1CD91F41349E32E?__blob=publicationFile&v=31",
     "title": "BMWi"
