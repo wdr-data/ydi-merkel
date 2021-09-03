@@ -72,7 +72,7 @@ An den Ausgaben des Staats lässt sich in einem gewissen Maß auch ablesen, wie 
 <YDILine name="economy_expenses"/>
 
 ### Staatsverschuldung
-Reichen die eingenommen Steuern nicht für für die Ausgaben des Bundes aus, muss der Staat Schulden machen - was gerade die Union laut ihrem Wahlprogramm in Zukunft vermeiden will. Wie hat sich der Schuldenstand Deutschlands unter der Großen Koalition entwickelt?
+Reichen die eingenommen Steuern nicht für für die Ausgaben des Bundes aus, muss der Staat Schulden machen - was die Union laut ihrem Wahlprogramm in Zukunft vermeiden will. Wie hat sich der Schuldenstand Deutschlands unter der Großen Koalition entwickelt?
 
 <YDILine name="economy_debt"/>
 
