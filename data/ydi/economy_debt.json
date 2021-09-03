@@ -1,9 +1,9 @@
 {
   "key": "economy_debt",
   "heading": "Die Staatsverschuldung ist...",
-  "subheading": "",
-  "result": "**Dies ist die _Auflösung_.**",
-  "accessibility": "Dies ist der Text für Screenreader.",
+  "subheading": "Schätzen Sie, wie sich der Schuldenstand Deutschlands in den vergangenen acht Jahren verändert hat",
+  "result": "**Über Jahre schaffte es die Große Koalition mit einem ausgeglichenen Haushalt keine neue Schulden aufnehmen zu müssen. Der Schuldenstand konnte sogar reduziert werden. Doch dann kam die Corona-Pandemie im Jahr 2020. Die Folge: Deutschland musste 217,8 Milliarden Euro neue Schulden aufnehmen.**",
+  "accessibility": "Über Jahre schaffte es die Große Koalition mit einem ausgeglichenen Haushalt keine neue Schulden aufnehmen zu müssen. Der Schuldenstand konnte sogar reduziert werden. Doch dann kam die Corona-Pandemie im Jahr 2020. Die Folge: Deutschland musste 217,8 Milliarden Euro neue Schulden aufnehmen.",
   "source": {
     "url": "https://www.destatis.de/DE/Themen/Staat/Oeffentliche-Finanzen/Schulden-Finanzvermoegen/Tabellen/schulden-nicht-oeffentl-gesamthaushalt-zeitreihe.html",
     "title": "Statistisches Bundesamt"
