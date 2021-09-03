@@ -2,11 +2,11 @@
   "key": "economy_expenses",
   "heading": "Die Staatsausgaben sind...",
   "subheading": "Schätzen Sie die jährlichen Ausgaben des Bundeshaushaltes",
-  "result": "**Dies ist die _Auflösung_.**",
-  "accessibility": "Dies ist der Text für Screenreader.",
+  "result": "**Bis zum Beginn der Corona-Pandemie hielt die schwarz-rote Koalition die Ausgaben des Bundes auf einem in etwa gleichbleibenden Level. Das Jahr 2020 machte das jedoch unmöglich. Nicht nur die Kosten für das Gesundheitssystem und die Pandemiebekämpfung schlugen sich in diesem Jahr im Bundeshaushalt nieder. Auch die Milliarden an Hilfsgeldern für die Wirtschaft haben die Staatsausgaben schwer belastet.**",
+  "accessibility": "Bis zum Beginn der Corona-Pandemie hielt die schwarz-rote Koalition die Ausgaben des Bundes auf einem in etwa gleichbleibenden Level. Das Jahr 2020 machte das jedoch unmöglich. Nicht nur die Kosten für das Gesundheitssystem und die Pandemiebekämpfung schlugen sich in diesem Jahr im Bundeshaushalt nieder. Auch die Milliarden an Hilfsgeldern für die Wirtschaft haben die Staatsausgaben schwer belastet.",
   "source": {
-    "url": "https://www.destatis.de/DE/Themen/Wirtschaft/Aussenhandel/Tabellen/gesamtentwicklung-aussenhandel.html",
-    "title": "Statistisches Bundesamt"
+    "url": "https://www.bundeshaushalt.de",
+    "title": "Bundesministerium der Finanzen"
   },
   "knownData": [
     {
