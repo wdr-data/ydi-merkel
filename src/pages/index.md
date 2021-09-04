@@ -2,7 +2,7 @@
 title: "Bundestagswahl 2021: Was schätzen Sie?"
 description: "Schätzen Sie selbst, wie sich CO2-Ausstoß, Nettovermögen, Arbeitslosigkeit und die Zahl der Asylanträge während der vergangenen zwei Legislaturperioden entwickelt haben."
 author: Jörn Kießler
-pub_date: "2021-08-30"
+pub_date: "2021-09-05"
 heroImage: "kabinett-grosse-koalition.jpg"
 heroAlt: "Die Regierungsbank in Deutschen Bundestag mit Regierungsbank mit Bundesgesundheitsminister Jens Spahn (CDU), Bundesfamilienministerin Franziska Giffey (SPD), Bundeslandwirtschaftsministerin Julia Kloeckner (CDU), Bundesarbeitsminister Hubertus Heil (SPD), Bundesaussenminister Heiko Maas (SPD), Bundesinnenminister Horst Seehofer (CSU), Bundesfinanzminister Olaf Scholz (SPD) und Bundeskanzlerin Angela Merkel (CDU) (von hinten links nach vorne rechts)."
 heroCredit: "Die Regierungsbank im Deutschen Bundestag"
@@ -65,7 +65,7 @@ Wenn wenige Reiche viel Vermögen besitzen, bleibt nicht mehr viel für die Schl
 
 ## Wirtschaft
 ### Staatsausgaben
-AAn den Ausgaben des Staats lässt sich in einem gewissen Maß ablesen, wie es um die Gemeinschaft bestellt ist. Der größte Anteil der Staatsausgaben fließt nämlich in Sozialleistungen wie Rente, Arbeitslosen- und Krankenversicherung ein. Wirtschaftet der Bund vorausschauend, halten sich die Ausgaben und Einnahmen vor allem aus den Steuern die Waage. Krisen wie beispielsweise die Finanzkrise 2008 oder auch die Corona-Pandemie können aber auch die besten Haushaltspläne über den Haufen werfen. Wie hat die Große Koalition bis zur Covid-Pandemie gewirtschaftet?
+An den Ausgaben des Staats lässt sich in einem gewissen Maß ablesen, wie es um die Gemeinschaft bestellt ist. Der größte Anteil der Staatsausgaben fließt nämlich in Sozialleistungen wie Rente, Arbeitslosen- und Krankenversicherung ein. Wirtschaftet der Bund vorausschauend, halten sich die Ausgaben und Einnahmen vor allem aus den Steuern die Waage. Krisen wie beispielsweise die Finanzkrise 2008 oder auch die Corona-Pandemie können aber auch die besten Haushaltspläne über den Haufen werfen. Wie hat die Große Koalition bis zur Covid-Pandemie gewirtschaftet?
 
 <YDILine name="economy_expenses"/>
 
