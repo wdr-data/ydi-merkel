@@ -2,7 +2,7 @@
 title: "Bundestagswahl 2021: Was schätzen Sie?"
 description: "Schätzen Sie selbst, wie sich CO2-Ausstoß, Nettovermögen, Arbeitslosigkeit und die Zahl der Asylanträge während der vergangenen zwei Legislaturperioden entwickelt haben."
 author: Jörn Kießler
-pub_date: "2021-09-05"
+pub_date: "2021-09-06"
 heroImage: "kabinett-grosse-koalition.jpg"
 heroAlt: "Die Regierungsbank in Deutschen Bundestag mit Regierungsbank mit Bundesgesundheitsminister Jens Spahn (CDU), Bundesfamilienministerin Franziska Giffey (SPD), Bundeslandwirtschaftsministerin Julia Kloeckner (CDU), Bundesarbeitsminister Hubertus Heil (SPD), Bundesaussenminister Heiko Maas (SPD), Bundesinnenminister Horst Seehofer (CSU), Bundesfinanzminister Olaf Scholz (SPD) und Bundeskanzlerin Angela Merkel (CDU) (von hinten links nach vorne rechts)."
 heroCredit: "Die Regierungsbank im Deutschen Bundestag"
